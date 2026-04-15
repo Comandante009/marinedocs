@@ -16,7 +16,8 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.comandante.marinedocs"
     },
     "web": {
       "bundler": "metro",
@@ -37,7 +38,14 @@
     ],
     "experiments": {
       "typedRoutes": true,
-      "baseUrl": "/541294b6-526b-4577-9271-313cf5f167c8/dev-preview/"
-    }
+      "baseUrl": "/541294b6-526b-4577-9271-313cf5f167c8/4848fe38c51e31a5/"
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "4f97ee1c-183c-407e-80e2-c88250dd139c"
+      }
+    },
+    "owner": "comandante009"
   }
 }
