@@ -1,9 +1,11 @@
-import { Stack } from "expo-router";
-import { StatusBar } from "expo-status-bar";
-import { useFonts } from "expo-font";
-import { FontMap } from "@/constants/Typography";
-import * as SplashScreen from "expo-splash-screen";
-import { useEffect } from "react";
+import { Stack } from 'expo-router';
+import { StatusBar } from 'expo-status-bar';
+import { useFonts } from 'expo-font';
+import { FontMap } from '@/constants/Typography';
+import * as SplashScreen from 'expo-splash-screen';
+import { useEffect } from 'react';
+import { View } from 'react-native';
+import { Colors } from '@/constants/Colors';
 
 SplashScreen.preventAutoHideAsync();
 
@@ -17,18 +19,27 @@ export default function RootLayout() {
   }, [loaded, error]);
 
   if (!loaded && !error) {
-    return null;
+    return <View style={{ flex: 1, backgroundColor: Colors.background }} />;
   }
 
   return (
     <>
-      <StatusBar style="dark" />
+      <StatusBar style="light" />
       <Stack
         screenOptions={{
           headerShown: false,
+          contentStyle: { backgroundColor: Colors.background },
+          animation: 'fade',
         }}
       >
-        <Stack.Screen name="index" />
+        <Stack.Screen name="(tabs)" />
+        <Stack.Screen
+          name="viewer"
+          options={{
+            presentation: 'modal',
+            animation: 'slide_from_bottom',
+          }}
+        />
       </Stack>
     </>
   );
