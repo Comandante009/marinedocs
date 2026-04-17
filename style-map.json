@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": 1776432111742,
+  "generatedAt": 1776432114033,
   "entries": {
     "HomeScreen@app/(tabs)/index.tsx:40": {
       "element": {
@@ -655,1098 +655,6 @@
               "col": 22,
               "endCol": 24,
               "raw": "12"
-            }
-          }
-        }
-      ]
-    },
-    "renderSnippet@components/search-result-card.tsx:22": {
-      "element": {
-        "file": "components/search-result-card.tsx",
-        "line": 22
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/search-result-card.tsx",
-          "properties": {
-            "fontSize": {
-              "line": 22,
-              "col": 60,
-              "endCol": 62,
-              "raw": "13"
-            },
-            "lineHeight": {
-              "line": 22,
-              "col": 105,
-              "endCol": 107,
-              "raw": "20"
-            }
-          }
-        }
-      ]
-    },
-    "renderSnippet@components/search-result-card.tsx:33": {
-      "element": {
-        "file": "components/search-result-card.tsx",
-        "line": 33
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/search-result-card.tsx",
-          "properties": {
-            "fontSize": {
-              "line": 33,
-              "col": 58,
-              "endCol": 60,
-              "raw": "13"
-            },
-            "lineHeight": {
-              "line": 33,
-              "col": 103,
-              "endCol": 105,
-              "raw": "20"
-            }
-          }
-        }
-      ]
-    },
-    "SearchResultCard@components/search-result-card.tsx:44": {
-      "element": {
-        "file": "components/search-result-card.tsx",
-        "line": 44
-      },
-      "styles": [
-        {
-          "origin": "dynamic",
-          "resolvable": false
-        }
-      ]
-    },
-    "SearchResultCard@components/search-result-card.tsx:57": {
-      "element": {
-        "file": "components/search-result-card.tsx",
-        "line": 57
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/search-result-card.tsx",
-          "properties": {
-            "flexDirection": {
-              "line": 57,
-              "col": 36,
-              "endCol": 41,
-              "raw": "'row'"
-            },
-            "alignItems": {
-              "line": 57,
-              "col": 55,
-              "endCol": 63,
-              "raw": "'center'"
-            },
-            "gap": {
-              "line": 57,
-              "col": 70,
-              "endCol": 72,
-              "raw": "10"
-            }
-          }
-        }
-      ]
-    },
-    "SearchResultCard@components/search-result-card.tsx:59": {
-      "element": {
-        "file": "components/search-result-card.tsx",
-        "line": 59
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/search-result-card.tsx",
-          "properties": {
-            "flex": {
-              "line": 59,
-              "col": 29,
-              "endCol": 30,
-              "raw": "1"
-            },
-            "gap": {
-              "line": 59,
-              "col": 37,
-              "endCol": 38,
-              "raw": "4"
-            }
-          }
-        }
-      ]
-    },
-    "SearchResultCard@components/search-result-card.tsx:60": {
-      "element": {
-        "file": "components/search-result-card.tsx",
-        "line": 60
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/search-result-card.tsx",
-          "properties": {
-            "fontSize": {
-              "line": 65,
-              "col": 24,
-              "endCol": 26,
-              "raw": "14"
-            }
-          }
-        }
-      ]
-    },
-    "SearchResultCard@components/search-result-card.tsx:71": {
-      "element": {
-        "file": "components/search-result-card.tsx",
-        "line": 71
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/search-result-card.tsx",
-          "properties": {
-            "flexDirection": {
-              "line": 71,
-              "col": 40,
-              "endCol": 45,
-              "raw": "'row'"
-            },
-            "alignItems": {
-              "line": 71,
-              "col": 59,
-              "endCol": 67,
-              "raw": "'center'"
-            },
-            "gap": {
-              "line": 71,
-              "col": 74,
-              "endCol": 75,
-              "raw": "6"
-            }
-          }
-        }
-      ]
-    },
-    "SearchResultCard@components/search-result-card.tsx:73": {
-      "element": {
-        "file": "components/search-result-card.tsx",
-        "line": 73
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/search-result-card.tsx",
-          "properties": {
-            "fontSize": {
-              "line": 73,
-              "col": 63,
-              "endCol": 65,
-              "raw": "11"
-            }
-          }
-        }
-      ]
-    },
-    "SearchResultCard@components/search-result-card.tsx:81": {
-      "element": {
-        "file": "components/search-result-card.tsx",
-        "line": 81
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/search-result-card.tsx",
-          "properties": {
-            "borderRadius": {
-              "line": 83,
-              "col": 22,
-              "endCol": 23,
-              "raw": "8"
-            },
-            "borderCurve": {
-              "line": 84,
-              "col": 21,
-              "endCol": 33,
-              "raw": "'continuous'"
-            },
-            "padding": {
-              "line": 85,
-              "col": 17,
-              "endCol": 19,
-              "raw": "10"
-            },
-            "borderLeftWidth": {
-              "line": 86,
-              "col": 25,
-              "endCol": 26,
-              "raw": "3"
-            }
-          }
-        }
-      ]
-    },
-    "SearchResultCard@components/search-result-card.tsx:93": {
-      "element": {
-        "file": "components/search-result-card.tsx",
-        "line": 93
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/search-result-card.tsx",
-          "properties": {
-            "flexDirection": {
-              "line": 95,
-              "col": 32,
-              "endCol": 37,
-              "raw": "'row'"
-            },
-            "alignItems": {
-              "line": 95,
-              "col": 51,
-              "endCol": 59,
-              "raw": "'center'"
-            },
-            "gap": {
-              "line": 95,
-              "col": 66,
-              "endCol": 67,
-              "raw": "4"
-            }
-          }
-        }
-      ]
-    },
-    "SearchResultCard@components/search-result-card.tsx:97": {
-      "element": {
-        "file": "components/search-result-card.tsx",
-        "line": 97
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/search-result-card.tsx",
-          "properties": {
-            "fontSize": {
-              "line": 100,
-              "col": 22,
-              "endCol": 24,
-              "raw": "13"
-            }
-          }
-        }
-      ]
-    },
-    "StatusBadge@components/status-badge.tsx:11": {
-      "element": {
-        "file": "components/status-badge.tsx",
-        "line": 11
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/status-badge.tsx",
-          "properties": {
-            "flexDirection": {
-              "line": 13,
-              "col": 23,
-              "endCol": 28,
-              "raw": "'row'"
-            },
-            "alignItems": {
-              "line": 14,
-              "col": 20,
-              "endCol": 28,
-              "raw": "'center'"
-            },
-            "gap": {
-              "line": 15,
-              "col": 13,
-              "endCol": 14,
-              "raw": "5"
-            },
-            "paddingHorizontal": {
-              "line": 17,
-              "col": 27,
-              "endCol": 29,
-              "raw": "10"
-            },
-            "paddingVertical": {
-              "line": 18,
-              "col": 25,
-              "endCol": 26,
-              "raw": "4"
-            },
-            "borderRadius": {
-              "line": 19,
-              "col": 22,
-              "endCol": 24,
-              "raw": "12"
-            },
-            "borderWidth": {
-              "line": 20,
-              "col": 21,
-              "endCol": 22,
-              "raw": "1"
-            }
-          }
-        }
-      ]
-    },
-    "StatusBadge@components/status-badge.tsx:24": {
-      "element": {
-        "file": "components/status-badge.tsx",
-        "line": 24
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/status-badge.tsx",
-          "properties": {
-            "width": {
-              "line": 26,
-              "col": 17,
-              "endCol": 18,
-              "raw": "6"
-            },
-            "height": {
-              "line": 27,
-              "col": 18,
-              "endCol": 19,
-              "raw": "6"
-            },
-            "borderRadius": {
-              "line": 28,
-              "col": 24,
-              "endCol": 25,
-              "raw": "3"
-            }
-          }
-        }
-      ]
-    },
-    "StatusBadge@components/status-badge.tsx:32": {
-      "element": {
-        "file": "components/status-badge.tsx",
-        "line": 32
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/status-badge.tsx",
-          "properties": {
-            "fontSize": {
-              "line": 35,
-              "col": 20,
-              "endCol": 22,
-              "raw": "10"
-            },
-            "letterSpacing": {
-              "line": 37,
-              "col": 25,
-              "endCol": 28,
-              "raw": "0.5"
-            }
-          }
-        }
-      ]
-    },
-    "StatCard@components/stat-card.tsx:15": {
-      "element": {
-        "file": "components/stat-card.tsx",
-        "line": 15
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/stat-card.tsx",
-          "properties": {
-            "flex": {
-              "line": 17,
-              "col": 14,
-              "endCol": 15,
-              "raw": "1"
-            },
-            "borderRadius": {
-              "line": 19,
-              "col": 22,
-              "endCol": 24,
-              "raw": "14"
-            },
-            "borderCurve": {
-              "line": 20,
-              "col": 21,
-              "endCol": 33,
-              "raw": "'continuous'"
-            },
-            "padding": {
-              "line": 21,
-              "col": 17,
-              "endCol": 19,
-              "raw": "14"
-            },
-            "gap": {
-              "line": 22,
-              "col": 13,
-              "endCol": 14,
-              "raw": "8"
-            },
-            "borderWidth": {
-              "line": 23,
-              "col": 21,
-              "endCol": 22,
-              "raw": "1"
-            }
-          }
-        }
-      ]
-    },
-    "StatCard@components/stat-card.tsx:27": {
-      "element": {
-        "file": "components/stat-card.tsx",
-        "line": 27
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/stat-card.tsx",
-          "properties": {
-            "width": {
-              "line": 29,
-              "col": 17,
-              "endCol": 19,
-              "raw": "32"
-            },
-            "height": {
-              "line": 30,
-              "col": 18,
-              "endCol": 20,
-              "raw": "32"
-            },
-            "borderRadius": {
-              "line": 31,
-              "col": 24,
-              "endCol": 25,
-              "raw": "8"
-            },
-            "borderCurve": {
-              "line": 32,
-              "col": 23,
-              "endCol": 35,
-              "raw": "'continuous'"
-            },
-            "alignItems": {
-              "line": 34,
-              "col": 22,
-              "endCol": 30,
-              "raw": "'center'"
-            },
-            "justifyContent": {
-              "line": 35,
-              "col": 26,
-              "endCol": 34,
-              "raw": "'center'"
-            }
-          }
-        }
-      ]
-    },
-    "StatCard@components/stat-card.tsx:40": {
-      "element": {
-        "file": "components/stat-card.tsx",
-        "line": 40
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/stat-card.tsx",
-          "properties": {
-            "fontSize": {
-              "line": 44,
-              "col": 20,
-              "endCol": 22,
-              "raw": "20"
-            }
-          }
-        }
-      ]
-    },
-    "StatCard@components/stat-card.tsx:51": {
-      "element": {
-        "file": "components/stat-card.tsx",
-        "line": 51
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/stat-card.tsx",
-          "properties": {
-            "fontSize": {
-              "line": 54,
-              "col": 20,
-              "endCol": 22,
-              "raw": "11"
-            },
-            "letterSpacing": {
-              "line": 56,
-              "col": 25,
-              "endCol": 28,
-              "raw": "0.2"
-            }
-          }
-        }
-      ]
-    },
-    "ActionButton@components/action-button.tsx:24": {
-      "element": {
-        "file": "components/action-button.tsx",
-        "line": 24
-      },
-      "styles": [
-        {
-          "origin": "dynamic",
-          "resolvable": false
-        }
-      ]
-    },
-    "ActionButton@components/action-button.tsx:42": {
-      "element": {
-        "file": "components/action-button.tsx",
-        "line": 42
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/action-button.tsx",
-          "properties": {
-            "width": {
-              "line": 44,
-              "col": 17,
-              "endCol": 19,
-              "raw": "36"
-            },
-            "height": {
-              "line": 45,
-              "col": 18,
-              "endCol": 20,
-              "raw": "36"
-            },
-            "borderRadius": {
-              "line": 46,
-              "col": 24,
-              "endCol": 26,
-              "raw": "18"
-            },
-            "alignItems": {
-              "line": 48,
-              "col": 22,
-              "endCol": 30,
-              "raw": "'center'"
-            },
-            "justifyContent": {
-              "line": 49,
-              "col": 26,
-              "endCol": 34,
-              "raw": "'center'"
-            }
-          }
-        }
-      ]
-    },
-    "ActionButton@components/action-button.tsx:54": {
-      "element": {
-        "file": "components/action-button.tsx",
-        "line": 54
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/action-button.tsx",
-          "properties": {
-            "fontSize": {
-              "line": 57,
-              "col": 20,
-              "endCol": 22,
-              "raw": "12"
-            },
-            "textAlign": {
-              "line": 59,
-              "col": 21,
-              "endCol": 29,
-              "raw": "'center'"
-            },
-            "letterSpacing": {
-              "line": 60,
-              "col": 25,
-              "endCol": 28,
-              "raw": "0.2"
-            }
-          }
-        }
-      ]
-    },
-    "ChatMessageBubble@components/chat-message.tsx:18": {
-      "element": {
-        "file": "components/chat-message.tsx",
-        "line": 18
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/chat-message.tsx",
-          "properties": {
-            "borderRadius": {
-              "line": 21,
-              "col": 24,
-              "endCol": 26,
-              "raw": "12"
-            },
-            "borderCurve": {
-              "line": 22,
-              "col": 23,
-              "endCol": 35,
-              "raw": "'continuous'"
-            },
-            "padding": {
-              "line": 23,
-              "col": 19,
-              "endCol": 21,
-              "raw": "14"
-            },
-            "marginHorizontal": {
-              "line": 24,
-              "col": 28,
-              "endCol": 30,
-              "raw": "16"
-            },
-            "borderWidth": {
-              "line": 25,
-              "col": 23,
-              "endCol": 24,
-              "raw": "1"
-            }
-          }
-        }
-      ]
-    },
-    "ChatMessageBubble@components/chat-message.tsx:29": {
-      "element": {
-        "file": "components/chat-message.tsx",
-        "line": 29
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/chat-message.tsx",
-          "properties": {
-            "flexDirection": {
-              "line": 29,
-              "col": 38,
-              "endCol": 43,
-              "raw": "'row'"
-            },
-            "alignItems": {
-              "line": 29,
-              "col": 57,
-              "endCol": 65,
-              "raw": "'center'"
-            },
-            "gap": {
-              "line": 29,
-              "col": 72,
-              "endCol": 73,
-              "raw": "8"
-            },
-            "marginBottom": {
-              "line": 29,
-              "col": 89,
-              "endCol": 90,
-              "raw": "6"
-            }
-          }
-        }
-      ]
-    },
-    "ChatMessageBubble@components/chat-message.tsx:31": {
-      "element": {
-        "file": "components/chat-message.tsx",
-        "line": 31
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/chat-message.tsx",
-          "properties": {
-            "fontSize": {
-              "line": 31,
-              "col": 63,
-              "endCol": 65,
-              "raw": "12"
-            }
-          }
-        }
-      ]
-    },
-    "ChatMessageBubble@components/chat-message.tsx:35": {
-      "element": {
-        "file": "components/chat-message.tsx",
-        "line": 35
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/chat-message.tsx",
-          "properties": {
-            "fontSize": {
-              "line": 39,
-              "col": 22,
-              "endCol": 24,
-              "raw": "14"
-            },
-            "lineHeight": {
-              "line": 41,
-              "col": 24,
-              "endCol": 26,
-              "raw": "20"
-            }
-          }
-        }
-      ]
-    },
-    "ChatMessageBubble@components/chat-message.tsx:51": {
-      "element": {
-        "file": "components/chat-message.tsx",
-        "line": 51
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/chat-message.tsx",
-          "properties": {
-            "paddingHorizontal": {
-              "line": 54,
-              "col": 27,
-              "endCol": 29,
-              "raw": "16"
-            }
-          }
-        }
-      ]
-    },
-    "ChatMessageBubble@components/chat-message.tsx:57": {
-      "element": {
-        "file": "components/chat-message.tsx",
-        "line": 57
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/chat-message.tsx",
-          "properties": {
-            "maxWidth": {
-              "line": 59,
-              "col": 20,
-              "endCol": 25,
-              "raw": "'85%'"
-            },
-            "borderRadius": {
-              "line": 61,
-              "col": 24,
-              "endCol": 26,
-              "raw": "16"
-            },
-            "borderCurve": {
-              "line": 62,
-              "col": 23,
-              "endCol": 35,
-              "raw": "'continuous'"
-            },
-            "padding": {
-              "line": 63,
-              "col": 19,
-              "endCol": 21,
-              "raw": "14"
-            }
-          }
-        }
-      ]
-    },
-    "ChatMessageBubble@components/chat-message.tsx:70": {
-      "element": {
-        "file": "components/chat-message.tsx",
-        "line": 70
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/chat-message.tsx",
-          "properties": {
-            "fontSize": {
-              "line": 74,
-              "col": 22,
-              "endCol": 24,
-              "raw": "14"
-            },
-            "lineHeight": {
-              "line": 76,
-              "col": 24,
-              "endCol": 26,
-              "raw": "21"
-            }
-          }
-        }
-      ]
-    },
-    "ChatMessageBubble@components/chat-message.tsx:84": {
-      "element": {
-        "file": "components/chat-message.tsx",
-        "line": 84
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/chat-message.tsx",
-          "properties": {
-            "marginTop": {
-              "line": 84,
-              "col": 36,
-              "endCol": 38,
-              "raw": "10"
-            },
-            "gap": {
-              "line": 84,
-              "col": 45,
-              "endCol": 46,
-              "raw": "4"
-            }
-          }
-        }
-      ]
-    },
-    "ChatMessageBubble@components/chat-message.tsx:86": {
-      "element": {
-        "file": "components/chat-message.tsx",
-        "line": 86
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/chat-message.tsx",
-          "properties": {
-            "flexDirection": {
-              "line": 89,
-              "col": 33,
-              "endCol": 38,
-              "raw": "'row'"
-            },
-            "alignItems": {
-              "line": 90,
-              "col": 30,
-              "endCol": 38,
-              "raw": "'center'"
-            },
-            "gap": {
-              "line": 91,
-              "col": 23,
-              "endCol": 24,
-              "raw": "4"
-            },
-            "backgroundColor": {
-              "line": 92,
-              "col": 35,
-              "endCol": 52,
-              "raw": "'rgba(0,0,0,0.2)'"
-            },
-            "paddingHorizontal": {
-              "line": 93,
-              "col": 37,
-              "endCol": 38,
-              "raw": "8"
-            },
-            "paddingVertical": {
-              "line": 94,
-              "col": 35,
-              "endCol": 36,
-              "raw": "4"
-            },
-            "borderRadius": {
-              "line": 95,
-              "col": 32,
-              "endCol": 33,
-              "raw": "6"
-            },
-            "borderCurve": {
-              "line": 96,
-              "col": 31,
-              "endCol": 43,
-              "raw": "'continuous'"
-            }
-          }
-        }
-      ]
-    },
-    "ChatMessageBubble@components/chat-message.tsx:100": {
-      "element": {
-        "file": "components/chat-message.tsx",
-        "line": 100
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/chat-message.tsx",
-          "properties": {
-            "fontSize": {
-              "line": 104,
-              "col": 30,
-              "endCol": 32,
-              "raw": "11"
-            },
-            "flex": {
-              "line": 106,
-              "col": 26,
-              "endCol": 27,
-              "raw": "1"
-            }
-          }
-        }
-      ]
-    },
-    "ChatMessageBubble@components/chat-message.tsx:120": {
-      "element": {
-        "file": "components/chat-message.tsx",
-        "line": 120
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/chat-message.tsx",
-          "properties": {
-            "flexDirection": {
-              "line": 123,
-              "col": 27,
-              "endCol": 32,
-              "raw": "'row'"
-            },
-            "alignItems": {
-              "line": 124,
-              "col": 24,
-              "endCol": 32,
-              "raw": "'center'"
-            },
-            "gap": {
-              "line": 125,
-              "col": 17,
-              "endCol": 18,
-              "raw": "4"
-            },
-            "paddingHorizontal": {
-              "line": 126,
-              "col": 31,
-              "endCol": 32,
-              "raw": "8"
-            },
-            "paddingVertical": {
-              "line": 127,
-              "col": 29,
-              "endCol": 30,
-              "raw": "4"
-            },
-            "marginTop": {
-              "line": 128,
-              "col": 23,
-              "endCol": 24,
-              "raw": "4"
-            }
-          }
-        }
-      ]
-    },
-    "ChatMessageBubble@components/chat-message.tsx:132": {
-      "element": {
-        "file": "components/chat-message.tsx",
-        "line": 132
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/chat-message.tsx",
-          "properties": {
-            "fontSize": {
-              "line": 132,
-              "col": 62,
-              "endCol": 64,
-              "raw": "11"
-            }
-          }
-        }
-      ]
-    },
-    "FileTypeIcon@components/file-type-icon.tsx:22": {
-      "element": {
-        "file": "components/file-type-icon.tsx",
-        "line": 22
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/file-type-icon.tsx",
-          "properties": {
-            "borderRadius": {
-              "line": 26,
-              "col": 22,
-              "endCol": 23,
-              "raw": "8"
-            },
-            "borderCurve": {
-              "line": 27,
-              "col": 21,
-              "endCol": 33,
-              "raw": "'continuous'"
-            },
-            "borderWidth": {
-              "line": 29,
-              "col": 21,
-              "endCol": 22,
-              "raw": "1"
-            },
-            "alignItems": {
-              "line": 31,
-              "col": 20,
-              "endCol": 28,
-              "raw": "'center'"
-            },
-            "justifyContent": {
-              "line": 32,
-              "col": 24,
-              "endCol": 32,
-              "raw": "'center'"
-            }
-          }
-        }
-      ]
-    },
-    "FileTypeIcon@components/file-type-icon.tsx:35": {
-      "element": {
-        "file": "components/file-type-icon.tsx",
-        "line": 35
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/file-type-icon.tsx",
-          "properties": {
-            "letterSpacing": {
-              "line": 40,
-              "col": 25,
-              "endCol": 28,
-              "raw": "0.5"
             }
           }
         }
@@ -6423,6 +5331,1098 @@
               "col": 26,
               "endCol": 28,
               "raw": "13"
+            }
+          }
+        }
+      ]
+    },
+    "StatCard@components/stat-card.tsx:15": {
+      "element": {
+        "file": "components/stat-card.tsx",
+        "line": 15
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/stat-card.tsx",
+          "properties": {
+            "flex": {
+              "line": 17,
+              "col": 14,
+              "endCol": 15,
+              "raw": "1"
+            },
+            "borderRadius": {
+              "line": 19,
+              "col": 22,
+              "endCol": 24,
+              "raw": "14"
+            },
+            "borderCurve": {
+              "line": 20,
+              "col": 21,
+              "endCol": 33,
+              "raw": "'continuous'"
+            },
+            "padding": {
+              "line": 21,
+              "col": 17,
+              "endCol": 19,
+              "raw": "14"
+            },
+            "gap": {
+              "line": 22,
+              "col": 13,
+              "endCol": 14,
+              "raw": "8"
+            },
+            "borderWidth": {
+              "line": 23,
+              "col": 21,
+              "endCol": 22,
+              "raw": "1"
+            }
+          }
+        }
+      ]
+    },
+    "StatCard@components/stat-card.tsx:27": {
+      "element": {
+        "file": "components/stat-card.tsx",
+        "line": 27
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/stat-card.tsx",
+          "properties": {
+            "width": {
+              "line": 29,
+              "col": 17,
+              "endCol": 19,
+              "raw": "32"
+            },
+            "height": {
+              "line": 30,
+              "col": 18,
+              "endCol": 20,
+              "raw": "32"
+            },
+            "borderRadius": {
+              "line": 31,
+              "col": 24,
+              "endCol": 25,
+              "raw": "8"
+            },
+            "borderCurve": {
+              "line": 32,
+              "col": 23,
+              "endCol": 35,
+              "raw": "'continuous'"
+            },
+            "alignItems": {
+              "line": 34,
+              "col": 22,
+              "endCol": 30,
+              "raw": "'center'"
+            },
+            "justifyContent": {
+              "line": 35,
+              "col": 26,
+              "endCol": 34,
+              "raw": "'center'"
+            }
+          }
+        }
+      ]
+    },
+    "StatCard@components/stat-card.tsx:40": {
+      "element": {
+        "file": "components/stat-card.tsx",
+        "line": 40
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/stat-card.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 44,
+              "col": 20,
+              "endCol": 22,
+              "raw": "20"
+            }
+          }
+        }
+      ]
+    },
+    "StatCard@components/stat-card.tsx:51": {
+      "element": {
+        "file": "components/stat-card.tsx",
+        "line": 51
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/stat-card.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 54,
+              "col": 20,
+              "endCol": 22,
+              "raw": "11"
+            },
+            "letterSpacing": {
+              "line": 56,
+              "col": 25,
+              "endCol": 28,
+              "raw": "0.2"
+            }
+          }
+        }
+      ]
+    },
+    "ActionButton@components/action-button.tsx:24": {
+      "element": {
+        "file": "components/action-button.tsx",
+        "line": 24
+      },
+      "styles": [
+        {
+          "origin": "dynamic",
+          "resolvable": false
+        }
+      ]
+    },
+    "ActionButton@components/action-button.tsx:42": {
+      "element": {
+        "file": "components/action-button.tsx",
+        "line": 42
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/action-button.tsx",
+          "properties": {
+            "width": {
+              "line": 44,
+              "col": 17,
+              "endCol": 19,
+              "raw": "36"
+            },
+            "height": {
+              "line": 45,
+              "col": 18,
+              "endCol": 20,
+              "raw": "36"
+            },
+            "borderRadius": {
+              "line": 46,
+              "col": 24,
+              "endCol": 26,
+              "raw": "18"
+            },
+            "alignItems": {
+              "line": 48,
+              "col": 22,
+              "endCol": 30,
+              "raw": "'center'"
+            },
+            "justifyContent": {
+              "line": 49,
+              "col": 26,
+              "endCol": 34,
+              "raw": "'center'"
+            }
+          }
+        }
+      ]
+    },
+    "ActionButton@components/action-button.tsx:54": {
+      "element": {
+        "file": "components/action-button.tsx",
+        "line": 54
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/action-button.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 57,
+              "col": 20,
+              "endCol": 22,
+              "raw": "12"
+            },
+            "textAlign": {
+              "line": 59,
+              "col": 21,
+              "endCol": 29,
+              "raw": "'center'"
+            },
+            "letterSpacing": {
+              "line": 60,
+              "col": 25,
+              "endCol": 28,
+              "raw": "0.2"
+            }
+          }
+        }
+      ]
+    },
+    "StatusBadge@components/status-badge.tsx:11": {
+      "element": {
+        "file": "components/status-badge.tsx",
+        "line": 11
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/status-badge.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 13,
+              "col": 23,
+              "endCol": 28,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 14,
+              "col": 20,
+              "endCol": 28,
+              "raw": "'center'"
+            },
+            "gap": {
+              "line": 15,
+              "col": 13,
+              "endCol": 14,
+              "raw": "5"
+            },
+            "paddingHorizontal": {
+              "line": 17,
+              "col": 27,
+              "endCol": 29,
+              "raw": "10"
+            },
+            "paddingVertical": {
+              "line": 18,
+              "col": 25,
+              "endCol": 26,
+              "raw": "4"
+            },
+            "borderRadius": {
+              "line": 19,
+              "col": 22,
+              "endCol": 24,
+              "raw": "12"
+            },
+            "borderWidth": {
+              "line": 20,
+              "col": 21,
+              "endCol": 22,
+              "raw": "1"
+            }
+          }
+        }
+      ]
+    },
+    "StatusBadge@components/status-badge.tsx:24": {
+      "element": {
+        "file": "components/status-badge.tsx",
+        "line": 24
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/status-badge.tsx",
+          "properties": {
+            "width": {
+              "line": 26,
+              "col": 17,
+              "endCol": 18,
+              "raw": "6"
+            },
+            "height": {
+              "line": 27,
+              "col": 18,
+              "endCol": 19,
+              "raw": "6"
+            },
+            "borderRadius": {
+              "line": 28,
+              "col": 24,
+              "endCol": 25,
+              "raw": "3"
+            }
+          }
+        }
+      ]
+    },
+    "StatusBadge@components/status-badge.tsx:32": {
+      "element": {
+        "file": "components/status-badge.tsx",
+        "line": 32
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/status-badge.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 35,
+              "col": 20,
+              "endCol": 22,
+              "raw": "10"
+            },
+            "letterSpacing": {
+              "line": 37,
+              "col": 25,
+              "endCol": 28,
+              "raw": "0.5"
+            }
+          }
+        }
+      ]
+    },
+    "renderSnippet@components/search-result-card.tsx:22": {
+      "element": {
+        "file": "components/search-result-card.tsx",
+        "line": 22
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/search-result-card.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 22,
+              "col": 60,
+              "endCol": 62,
+              "raw": "13"
+            },
+            "lineHeight": {
+              "line": 22,
+              "col": 105,
+              "endCol": 107,
+              "raw": "20"
+            }
+          }
+        }
+      ]
+    },
+    "renderSnippet@components/search-result-card.tsx:33": {
+      "element": {
+        "file": "components/search-result-card.tsx",
+        "line": 33
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/search-result-card.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 33,
+              "col": 58,
+              "endCol": 60,
+              "raw": "13"
+            },
+            "lineHeight": {
+              "line": 33,
+              "col": 103,
+              "endCol": 105,
+              "raw": "20"
+            }
+          }
+        }
+      ]
+    },
+    "SearchResultCard@components/search-result-card.tsx:44": {
+      "element": {
+        "file": "components/search-result-card.tsx",
+        "line": 44
+      },
+      "styles": [
+        {
+          "origin": "dynamic",
+          "resolvable": false
+        }
+      ]
+    },
+    "SearchResultCard@components/search-result-card.tsx:57": {
+      "element": {
+        "file": "components/search-result-card.tsx",
+        "line": 57
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/search-result-card.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 57,
+              "col": 36,
+              "endCol": 41,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 57,
+              "col": 55,
+              "endCol": 63,
+              "raw": "'center'"
+            },
+            "gap": {
+              "line": 57,
+              "col": 70,
+              "endCol": 72,
+              "raw": "10"
+            }
+          }
+        }
+      ]
+    },
+    "SearchResultCard@components/search-result-card.tsx:59": {
+      "element": {
+        "file": "components/search-result-card.tsx",
+        "line": 59
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/search-result-card.tsx",
+          "properties": {
+            "flex": {
+              "line": 59,
+              "col": 29,
+              "endCol": 30,
+              "raw": "1"
+            },
+            "gap": {
+              "line": 59,
+              "col": 37,
+              "endCol": 38,
+              "raw": "4"
+            }
+          }
+        }
+      ]
+    },
+    "SearchResultCard@components/search-result-card.tsx:60": {
+      "element": {
+        "file": "components/search-result-card.tsx",
+        "line": 60
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/search-result-card.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 65,
+              "col": 24,
+              "endCol": 26,
+              "raw": "14"
+            }
+          }
+        }
+      ]
+    },
+    "SearchResultCard@components/search-result-card.tsx:71": {
+      "element": {
+        "file": "components/search-result-card.tsx",
+        "line": 71
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/search-result-card.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 71,
+              "col": 40,
+              "endCol": 45,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 71,
+              "col": 59,
+              "endCol": 67,
+              "raw": "'center'"
+            },
+            "gap": {
+              "line": 71,
+              "col": 74,
+              "endCol": 75,
+              "raw": "6"
+            }
+          }
+        }
+      ]
+    },
+    "SearchResultCard@components/search-result-card.tsx:73": {
+      "element": {
+        "file": "components/search-result-card.tsx",
+        "line": 73
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/search-result-card.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 73,
+              "col": 63,
+              "endCol": 65,
+              "raw": "11"
+            }
+          }
+        }
+      ]
+    },
+    "SearchResultCard@components/search-result-card.tsx:81": {
+      "element": {
+        "file": "components/search-result-card.tsx",
+        "line": 81
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/search-result-card.tsx",
+          "properties": {
+            "borderRadius": {
+              "line": 83,
+              "col": 22,
+              "endCol": 23,
+              "raw": "8"
+            },
+            "borderCurve": {
+              "line": 84,
+              "col": 21,
+              "endCol": 33,
+              "raw": "'continuous'"
+            },
+            "padding": {
+              "line": 85,
+              "col": 17,
+              "endCol": 19,
+              "raw": "10"
+            },
+            "borderLeftWidth": {
+              "line": 86,
+              "col": 25,
+              "endCol": 26,
+              "raw": "3"
+            }
+          }
+        }
+      ]
+    },
+    "SearchResultCard@components/search-result-card.tsx:93": {
+      "element": {
+        "file": "components/search-result-card.tsx",
+        "line": 93
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/search-result-card.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 95,
+              "col": 32,
+              "endCol": 37,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 95,
+              "col": 51,
+              "endCol": 59,
+              "raw": "'center'"
+            },
+            "gap": {
+              "line": 95,
+              "col": 66,
+              "endCol": 67,
+              "raw": "4"
+            }
+          }
+        }
+      ]
+    },
+    "SearchResultCard@components/search-result-card.tsx:97": {
+      "element": {
+        "file": "components/search-result-card.tsx",
+        "line": 97
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/search-result-card.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 100,
+              "col": 22,
+              "endCol": 24,
+              "raw": "13"
+            }
+          }
+        }
+      ]
+    },
+    "ChatMessageBubble@components/chat-message.tsx:18": {
+      "element": {
+        "file": "components/chat-message.tsx",
+        "line": 18
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/chat-message.tsx",
+          "properties": {
+            "borderRadius": {
+              "line": 21,
+              "col": 24,
+              "endCol": 26,
+              "raw": "12"
+            },
+            "borderCurve": {
+              "line": 22,
+              "col": 23,
+              "endCol": 35,
+              "raw": "'continuous'"
+            },
+            "padding": {
+              "line": 23,
+              "col": 19,
+              "endCol": 21,
+              "raw": "14"
+            },
+            "marginHorizontal": {
+              "line": 24,
+              "col": 28,
+              "endCol": 30,
+              "raw": "16"
+            },
+            "borderWidth": {
+              "line": 25,
+              "col": 23,
+              "endCol": 24,
+              "raw": "1"
+            }
+          }
+        }
+      ]
+    },
+    "ChatMessageBubble@components/chat-message.tsx:29": {
+      "element": {
+        "file": "components/chat-message.tsx",
+        "line": 29
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/chat-message.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 29,
+              "col": 38,
+              "endCol": 43,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 29,
+              "col": 57,
+              "endCol": 65,
+              "raw": "'center'"
+            },
+            "gap": {
+              "line": 29,
+              "col": 72,
+              "endCol": 73,
+              "raw": "8"
+            },
+            "marginBottom": {
+              "line": 29,
+              "col": 89,
+              "endCol": 90,
+              "raw": "6"
+            }
+          }
+        }
+      ]
+    },
+    "ChatMessageBubble@components/chat-message.tsx:31": {
+      "element": {
+        "file": "components/chat-message.tsx",
+        "line": 31
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/chat-message.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 31,
+              "col": 63,
+              "endCol": 65,
+              "raw": "12"
+            }
+          }
+        }
+      ]
+    },
+    "ChatMessageBubble@components/chat-message.tsx:35": {
+      "element": {
+        "file": "components/chat-message.tsx",
+        "line": 35
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/chat-message.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 39,
+              "col": 22,
+              "endCol": 24,
+              "raw": "14"
+            },
+            "lineHeight": {
+              "line": 41,
+              "col": 24,
+              "endCol": 26,
+              "raw": "20"
+            }
+          }
+        }
+      ]
+    },
+    "ChatMessageBubble@components/chat-message.tsx:51": {
+      "element": {
+        "file": "components/chat-message.tsx",
+        "line": 51
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/chat-message.tsx",
+          "properties": {
+            "paddingHorizontal": {
+              "line": 54,
+              "col": 27,
+              "endCol": 29,
+              "raw": "16"
+            }
+          }
+        }
+      ]
+    },
+    "ChatMessageBubble@components/chat-message.tsx:57": {
+      "element": {
+        "file": "components/chat-message.tsx",
+        "line": 57
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/chat-message.tsx",
+          "properties": {
+            "maxWidth": {
+              "line": 59,
+              "col": 20,
+              "endCol": 25,
+              "raw": "'85%'"
+            },
+            "borderRadius": {
+              "line": 61,
+              "col": 24,
+              "endCol": 26,
+              "raw": "16"
+            },
+            "borderCurve": {
+              "line": 62,
+              "col": 23,
+              "endCol": 35,
+              "raw": "'continuous'"
+            },
+            "padding": {
+              "line": 63,
+              "col": 19,
+              "endCol": 21,
+              "raw": "14"
+            }
+          }
+        }
+      ]
+    },
+    "ChatMessageBubble@components/chat-message.tsx:70": {
+      "element": {
+        "file": "components/chat-message.tsx",
+        "line": 70
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/chat-message.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 74,
+              "col": 22,
+              "endCol": 24,
+              "raw": "14"
+            },
+            "lineHeight": {
+              "line": 76,
+              "col": 24,
+              "endCol": 26,
+              "raw": "21"
+            }
+          }
+        }
+      ]
+    },
+    "ChatMessageBubble@components/chat-message.tsx:84": {
+      "element": {
+        "file": "components/chat-message.tsx",
+        "line": 84
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/chat-message.tsx",
+          "properties": {
+            "marginTop": {
+              "line": 84,
+              "col": 36,
+              "endCol": 38,
+              "raw": "10"
+            },
+            "gap": {
+              "line": 84,
+              "col": 45,
+              "endCol": 46,
+              "raw": "4"
+            }
+          }
+        }
+      ]
+    },
+    "ChatMessageBubble@components/chat-message.tsx:86": {
+      "element": {
+        "file": "components/chat-message.tsx",
+        "line": 86
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/chat-message.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 89,
+              "col": 33,
+              "endCol": 38,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 90,
+              "col": 30,
+              "endCol": 38,
+              "raw": "'center'"
+            },
+            "gap": {
+              "line": 91,
+              "col": 23,
+              "endCol": 24,
+              "raw": "4"
+            },
+            "backgroundColor": {
+              "line": 92,
+              "col": 35,
+              "endCol": 52,
+              "raw": "'rgba(0,0,0,0.2)'"
+            },
+            "paddingHorizontal": {
+              "line": 93,
+              "col": 37,
+              "endCol": 38,
+              "raw": "8"
+            },
+            "paddingVertical": {
+              "line": 94,
+              "col": 35,
+              "endCol": 36,
+              "raw": "4"
+            },
+            "borderRadius": {
+              "line": 95,
+              "col": 32,
+              "endCol": 33,
+              "raw": "6"
+            },
+            "borderCurve": {
+              "line": 96,
+              "col": 31,
+              "endCol": 43,
+              "raw": "'continuous'"
+            }
+          }
+        }
+      ]
+    },
+    "ChatMessageBubble@components/chat-message.tsx:100": {
+      "element": {
+        "file": "components/chat-message.tsx",
+        "line": 100
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/chat-message.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 104,
+              "col": 30,
+              "endCol": 32,
+              "raw": "11"
+            },
+            "flex": {
+              "line": 106,
+              "col": 26,
+              "endCol": 27,
+              "raw": "1"
+            }
+          }
+        }
+      ]
+    },
+    "ChatMessageBubble@components/chat-message.tsx:120": {
+      "element": {
+        "file": "components/chat-message.tsx",
+        "line": 120
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/chat-message.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 123,
+              "col": 27,
+              "endCol": 32,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 124,
+              "col": 24,
+              "endCol": 32,
+              "raw": "'center'"
+            },
+            "gap": {
+              "line": 125,
+              "col": 17,
+              "endCol": 18,
+              "raw": "4"
+            },
+            "paddingHorizontal": {
+              "line": 126,
+              "col": 31,
+              "endCol": 32,
+              "raw": "8"
+            },
+            "paddingVertical": {
+              "line": 127,
+              "col": 29,
+              "endCol": 30,
+              "raw": "4"
+            },
+            "marginTop": {
+              "line": 128,
+              "col": 23,
+              "endCol": 24,
+              "raw": "4"
+            }
+          }
+        }
+      ]
+    },
+    "ChatMessageBubble@components/chat-message.tsx:132": {
+      "element": {
+        "file": "components/chat-message.tsx",
+        "line": 132
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/chat-message.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 132,
+              "col": 62,
+              "endCol": 64,
+              "raw": "11"
+            }
+          }
+        }
+      ]
+    },
+    "FileTypeIcon@components/file-type-icon.tsx:22": {
+      "element": {
+        "file": "components/file-type-icon.tsx",
+        "line": 22
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/file-type-icon.tsx",
+          "properties": {
+            "borderRadius": {
+              "line": 26,
+              "col": 22,
+              "endCol": 23,
+              "raw": "8"
+            },
+            "borderCurve": {
+              "line": 27,
+              "col": 21,
+              "endCol": 33,
+              "raw": "'continuous'"
+            },
+            "borderWidth": {
+              "line": 29,
+              "col": 21,
+              "endCol": 22,
+              "raw": "1"
+            },
+            "alignItems": {
+              "line": 31,
+              "col": 20,
+              "endCol": 28,
+              "raw": "'center'"
+            },
+            "justifyContent": {
+              "line": 32,
+              "col": 24,
+              "endCol": 32,
+              "raw": "'center'"
+            }
+          }
+        }
+      ]
+    },
+    "FileTypeIcon@components/file-type-icon.tsx:35": {
+      "element": {
+        "file": "components/file-type-icon.tsx",
+        "line": 35
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/file-type-icon.tsx",
+          "properties": {
+            "letterSpacing": {
+              "line": 40,
+              "col": 25,
+              "endCol": 28,
+              "raw": "0.5"
             }
           }
         }
