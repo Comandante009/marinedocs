@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": 1776285972230,
+  "generatedAt": 1776288190510,
   "entries": {
     "renderItem@app/(tabs)/documents.tsx:92": {
       "element": {
@@ -1013,2886 +1013,6 @@
         {
           "origin": "dynamic",
           "resolvable": false
-        }
-      ]
-    },
-    "HomeScreen@app/(tabs)/index.tsx:40": {
-      "element": {
-        "file": "app/(tabs)/index.tsx",
-        "line": 40
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/index.tsx",
-          "properties": {
-            "flex": {
-              "line": 41,
-              "col": 21,
-              "endCol": 22,
-              "raw": "1"
-            }
-          }
-        }
-      ]
-    },
-    "HomeScreen@app/(tabs)/index.tsx:46": {
-      "element": {
-        "file": "app/(tabs)/index.tsx",
-        "line": 46
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/index.tsx",
-          "properties": {
-            "paddingHorizontal": {
-              "line": 49,
-              "col": 29,
-              "endCol": 31,
-              "raw": "20"
-            },
-            "paddingBottom": {
-              "line": 50,
-              "col": 25,
-              "endCol": 27,
-              "raw": "20"
-            },
-            "gap": {
-              "line": 51,
-              "col": 15,
-              "endCol": 17,
-              "raw": "16"
-            }
-          }
-        }
-      ]
-    },
-    "HomeScreen@app/(tabs)/index.tsx:55": {
-      "element": {
-        "file": "app/(tabs)/index.tsx",
-        "line": 55
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/index.tsx",
-          "properties": {
-            "flexDirection": {
-              "line": 55,
-              "col": 38,
-              "endCol": 43,
-              "raw": "'row'"
-            },
-            "alignItems": {
-              "line": 55,
-              "col": 57,
-              "endCol": 65,
-              "raw": "'center'"
-            },
-            "justifyContent": {
-              "line": 55,
-              "col": 83,
-              "endCol": 98,
-              "raw": "'space-between'"
-            }
-          }
-        }
-      ]
-    },
-    "HomeScreen@app/(tabs)/index.tsx:56": {
-      "element": {
-        "file": "app/(tabs)/index.tsx",
-        "line": 56
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/index.tsx",
-          "properties": {
-            "flexDirection": {
-              "line": 56,
-              "col": 40,
-              "endCol": 45,
-              "raw": "'row'"
-            },
-            "alignItems": {
-              "line": 56,
-              "col": 59,
-              "endCol": 67,
-              "raw": "'center'"
-            },
-            "gap": {
-              "line": 56,
-              "col": 74,
-              "endCol": 76,
-              "raw": "10"
-            }
-          }
-        }
-      ]
-    },
-    "HomeScreen@app/(tabs)/index.tsx:57": {
-      "element": {
-        "file": "app/(tabs)/index.tsx",
-        "line": 57
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/index.tsx",
-          "properties": {
-            "width": {
-              "line": 59,
-              "col": 23,
-              "endCol": 25,
-              "raw": "36"
-            },
-            "height": {
-              "line": 60,
-              "col": 24,
-              "endCol": 26,
-              "raw": "36"
-            },
-            "borderRadius": {
-              "line": 61,
-              "col": 30,
-              "endCol": 32,
-              "raw": "10"
-            },
-            "borderCurve": {
-              "line": 62,
-              "col": 29,
-              "endCol": 41,
-              "raw": "'continuous'"
-            },
-            "alignItems": {
-              "line": 64,
-              "col": 28,
-              "endCol": 36,
-              "raw": "'center'"
-            },
-            "justifyContent": {
-              "line": 65,
-              "col": 32,
-              "endCol": 40,
-              "raw": "'center'"
-            },
-            "borderWidth": {
-              "line": 66,
-              "col": 29,
-              "endCol": 30,
-              "raw": "1"
-            }
-          }
-        }
-      ]
-    },
-    "HomeScreen@app/(tabs)/index.tsx:72": {
-      "element": {
-        "file": "app/(tabs)/index.tsx",
-        "line": 72
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/index.tsx",
-          "properties": {
-            "fontSize": {
-              "line": 75,
-              "col": 26,
-              "endCol": 28,
-              "raw": "22"
-            },
-            "letterSpacing": {
-              "line": 77,
-              "col": 31,
-              "endCol": 35,
-              "raw": "-0.5"
-            }
-          }
-        }
-      ]
-    },
-    "HomeScreen@app/(tabs)/index.tsx:84": {
-      "element": {
-        "file": "app/(tabs)/index.tsx",
-        "line": 84
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/index.tsx",
-          "properties": {
-            "flexDirection": {
-              "line": 84,
-              "col": 40,
-              "endCol": 45,
-              "raw": "'row'"
-            },
-            "alignItems": {
-              "line": 84,
-              "col": 59,
-              "endCol": 67,
-              "raw": "'center'"
-            },
-            "gap": {
-              "line": 84,
-              "col": 74,
-              "endCol": 76,
-              "raw": "10"
-            }
-          }
-        }
-      ]
-    },
-    "HomeScreen@app/(tabs)/index.tsx:86": {
-      "element": {
-        "file": "app/(tabs)/index.tsx",
-        "line": 86
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/index.tsx",
-          "properties": {
-            "flexDirection": {
-              "line": 89,
-              "col": 31,
-              "endCol": 36,
-              "raw": "'row'"
-            },
-            "alignItems": {
-              "line": 90,
-              "col": 28,
-              "endCol": 36,
-              "raw": "'center'"
-            },
-            "gap": {
-              "line": 91,
-              "col": 21,
-              "endCol": 22,
-              "raw": "4"
-            },
-            "paddingHorizontal": {
-              "line": 93,
-              "col": 35,
-              "endCol": 37,
-              "raw": "10"
-            },
-            "paddingVertical": {
-              "line": 94,
-              "col": 33,
-              "endCol": 34,
-              "raw": "6"
-            },
-            "borderRadius": {
-              "line": 95,
-              "col": 30,
-              "endCol": 31,
-              "raw": "8"
-            },
-            "borderCurve": {
-              "line": 96,
-              "col": 29,
-              "endCol": 41,
-              "raw": "'continuous'"
-            },
-            "borderWidth": {
-              "line": 97,
-              "col": 29,
-              "endCol": 30,
-              "raw": "1"
-            }
-          }
-        }
-      ]
-    },
-    "HomeScreen@app/(tabs)/index.tsx:101": {
-      "element": {
-        "file": "app/(tabs)/index.tsx",
-        "line": 101
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/index.tsx",
-          "properties": {
-            "fontSize": {
-              "line": 104,
-              "col": 28,
-              "endCol": 30,
-              "raw": "12"
-            }
-          }
-        }
-      ]
-    },
-    "HomeScreen@app/(tabs)/index.tsx:110": {
-      "element": {
-        "file": "app/(tabs)/index.tsx",
-        "line": 110
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/index.tsx",
-          "properties": {
-            "fontSize": {
-              "line": 110,
-              "col": 66,
-              "endCol": 68,
-              "raw": "12"
-            }
-          }
-        }
-      ]
-    },
-    "HomeScreen@app/(tabs)/index.tsx:111": {
-      "element": {
-        "file": "app/(tabs)/index.tsx",
-        "line": 111
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/index.tsx",
-          "properties": {
-            "fontSize": {
-              "line": 114,
-              "col": 28,
-              "endCol": 30,
-              "raw": "12"
-            }
-          }
-        }
-      ]
-    },
-    "HomeScreen@app/(tabs)/index.tsx:127": {
-      "element": {
-        "file": "app/(tabs)/index.tsx",
-        "line": 127
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/index.tsx",
-          "properties": {
-            "flexDirection": {
-              "line": 127,
-              "col": 38,
-              "endCol": 43,
-              "raw": "'row'"
-            },
-            "gap": {
-              "line": 127,
-              "col": 50,
-              "endCol": 52,
-              "raw": "10"
-            }
-          }
-        }
-      ]
-    },
-    "HomeScreen@app/(tabs)/index.tsx:149": {
-      "element": {
-        "file": "app/(tabs)/index.tsx",
-        "line": 149
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/index.tsx",
-          "properties": {
-            "flexDirection": {
-              "line": 149,
-              "col": 38,
-              "endCol": 43,
-              "raw": "'row'"
-            },
-            "gap": {
-              "line": 149,
-              "col": 50,
-              "endCol": 52,
-              "raw": "10"
-            }
-          }
-        }
-      ]
-    },
-    "HomeScreen@app/(tabs)/index.tsx:175": {
-      "element": {
-        "file": "app/(tabs)/index.tsx",
-        "line": 175
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/index.tsx",
-          "properties": {
-            "gap": {
-              "line": 175,
-              "col": 26,
-              "endCol": 28,
-              "raw": "12"
-            },
-            "paddingHorizontal": {
-              "line": 175,
-              "col": 49,
-              "endCol": 51,
-              "raw": "20"
-            }
-          }
-        }
-      ]
-    },
-    "HomeScreen@app/(tabs)/index.tsx:176": {
-      "element": {
-        "file": "app/(tabs)/index.tsx",
-        "line": 176
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/index.tsx",
-          "properties": {
-            "flexDirection": {
-              "line": 176,
-              "col": 38,
-              "endCol": 43,
-              "raw": "'row'"
-            },
-            "alignItems": {
-              "line": 176,
-              "col": 57,
-              "endCol": 65,
-              "raw": "'center'"
-            },
-            "justifyContent": {
-              "line": 176,
-              "col": 83,
-              "endCol": 98,
-              "raw": "'space-between'"
-            }
-          }
-        }
-      ]
-    },
-    "HomeScreen@app/(tabs)/index.tsx:177": {
-      "element": {
-        "file": "app/(tabs)/index.tsx",
-        "line": 177
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/index.tsx",
-          "properties": {
-            "fontSize": {
-              "line": 180,
-              "col": 24,
-              "endCol": 26,
-              "raw": "17"
-            }
-          }
-        }
-      ]
-    },
-    "HomeScreen@app/(tabs)/index.tsx:187": {
-      "element": {
-        "file": "app/(tabs)/index.tsx",
-        "line": 187
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/index.tsx",
-          "properties": {
-            "fontSize": {
-              "line": 190,
-              "col": 26,
-              "endCol": 28,
-              "raw": "13"
-            }
-          }
-        }
-      ]
-    },
-    "HomeScreen@app/(tabs)/index.tsx:199": {
-      "element": {
-        "file": "app/(tabs)/index.tsx",
-        "line": 199
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/index.tsx",
-          "properties": {
-            "gap": {
-              "line": 199,
-              "col": 28,
-              "endCol": 29,
-              "raw": "8"
-            }
-          }
-        }
-      ]
-    },
-    "CategoryFilter@components/category-filter.tsx:22": {
-      "element": {
-        "file": "components/category-filter.tsx",
-        "line": 22
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/category-filter.tsx",
-          "properties": {
-            "paddingHorizontal": {
-              "line": 26,
-              "col": 33,
-              "endCol": 35,
-              "raw": "14"
-            },
-            "paddingVertical": {
-              "line": 27,
-              "col": 31,
-              "endCol": 32,
-              "raw": "8"
-            },
-            "borderRadius": {
-              "line": 28,
-              "col": 28,
-              "endCol": 30,
-              "raw": "10"
-            },
-            "borderCurve": {
-              "line": 29,
-              "col": 27,
-              "endCol": 39,
-              "raw": "'continuous'"
-            },
-            "borderWidth": {
-              "line": 31,
-              "col": 27,
-              "endCol": 28,
-              "raw": "1"
-            },
-            "minHeight": {
-              "line": 33,
-              "col": 25,
-              "endCol": 27,
-              "raw": "36"
-            },
-            "justifyContent": {
-              "line": 34,
-              "col": 30,
-              "endCol": 38,
-              "raw": "'center'"
-            }
-          }
-        }
-      ]
-    },
-    "CategoryFilter@components/category-filter.tsx:37": {
-      "element": {
-        "file": "components/category-filter.tsx",
-        "line": 37
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/category-filter.tsx",
-          "properties": {
-            "fontSize": {
-              "line": 40,
-              "col": 26,
-              "endCol": 28,
-              "raw": "13"
-            }
-          }
-        }
-      ]
-    },
-    "DocumentCard@components/document-card.tsx:19": {
-      "element": {
-        "file": "components/document-card.tsx",
-        "line": 19
-      },
-      "styles": [
-        {
-          "origin": "dynamic",
-          "resolvable": false
-        }
-      ]
-    },
-    "DocumentCard@components/document-card.tsx:36": {
-      "element": {
-        "file": "components/document-card.tsx",
-        "line": 36
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/document-card.tsx",
-          "properties": {
-            "flex": {
-              "line": 36,
-              "col": 27,
-              "endCol": 28,
-              "raw": "1"
-            },
-            "gap": {
-              "line": 36,
-              "col": 35,
-              "endCol": 36,
-              "raw": "4"
-            }
-          }
-        }
-      ]
-    },
-    "DocumentCard@components/document-card.tsx:49": {
-      "element": {
-        "file": "components/document-card.tsx",
-        "line": 49
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/document-card.tsx",
-          "properties": {
-            "flexDirection": {
-              "line": 49,
-              "col": 38,
-              "endCol": 43,
-              "raw": "'row'"
-            },
-            "alignItems": {
-              "line": 49,
-              "col": 57,
-              "endCol": 65,
-              "raw": "'center'"
-            },
-            "gap": {
-              "line": 49,
-              "col": 72,
-              "endCol": 73,
-              "raw": "8"
-            }
-          }
-        }
-      ]
-    },
-    "DocumentCard@components/document-card.tsx:51": {
-      "element": {
-        "file": "components/document-card.tsx",
-        "line": 51
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/document-card.tsx",
-          "properties": {
-            "fontSize": {
-              "line": 54,
-              "col": 24,
-              "endCol": 26,
-              "raw": "12"
-            }
-          }
-        }
-      ]
-    },
-    "DocumentCard@components/document-card.tsx:63": {
-      "element": {
-        "file": "components/document-card.tsx",
-        "line": 63
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/document-card.tsx",
-          "properties": {
-            "alignItems": {
-              "line": 63,
-              "col": 33,
-              "endCol": 43,
-              "raw": "'flex-end'"
-            },
-            "gap": {
-              "line": 63,
-              "col": 50,
-              "endCol": 51,
-              "raw": "4"
-            }
-          }
-        }
-      ]
-    },
-    "DocumentCard@components/document-card.tsx:64": {
-      "element": {
-        "file": "components/document-card.tsx",
-        "line": 64
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/document-card.tsx",
-          "properties": {
-            "fontSize": {
-              "line": 67,
-              "col": 22,
-              "endCol": 24,
-              "raw": "12"
-            }
-          }
-        }
-      ]
-    },
-    "EmptyState@components/empty-state.tsx:15": {
-      "element": {
-        "file": "components/empty-state.tsx",
-        "line": 15
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/empty-state.tsx",
-          "properties": {
-            "alignItems": {
-              "line": 17,
-              "col": 20,
-              "endCol": 28,
-              "raw": "'center'"
-            },
-            "justifyContent": {
-              "line": 18,
-              "col": 24,
-              "endCol": 32,
-              "raw": "'center'"
-            },
-            "paddingVertical": {
-              "line": 19,
-              "col": 25,
-              "endCol": 27,
-              "raw": "60"
-            },
-            "paddingHorizontal": {
-              "line": 20,
-              "col": 27,
-              "endCol": 29,
-              "raw": "32"
-            },
-            "gap": {
-              "line": 21,
-              "col": 13,
-              "endCol": 15,
-              "raw": "16"
-            }
-          }
-        }
-      ]
-    },
-    "EmptyState@components/empty-state.tsx:24": {
-      "element": {
-        "file": "components/empty-state.tsx",
-        "line": 24
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/empty-state.tsx",
-          "properties": {
-            "width": {
-              "line": 26,
-              "col": 17,
-              "endCol": 19,
-              "raw": "72"
-            },
-            "height": {
-              "line": 27,
-              "col": 18,
-              "endCol": 20,
-              "raw": "72"
-            },
-            "borderRadius": {
-              "line": 28,
-              "col": 24,
-              "endCol": 26,
-              "raw": "36"
-            },
-            "alignItems": {
-              "line": 30,
-              "col": 22,
-              "endCol": 30,
-              "raw": "'center'"
-            },
-            "justifyContent": {
-              "line": 31,
-              "col": 26,
-              "endCol": 34,
-              "raw": "'center'"
-            }
-          }
-        }
-      ]
-    },
-    "EmptyState@components/empty-state.tsx:36": {
-      "element": {
-        "file": "components/empty-state.tsx",
-        "line": 36
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/empty-state.tsx",
-          "properties": {
-            "fontSize": {
-              "line": 39,
-              "col": 20,
-              "endCol": 22,
-              "raw": "17"
-            },
-            "textAlign": {
-              "line": 41,
-              "col": 21,
-              "endCol": 29,
-              "raw": "'center'"
-            }
-          }
-        }
-      ]
-    },
-    "EmptyState@components/empty-state.tsx:47": {
-      "element": {
-        "file": "components/empty-state.tsx",
-        "line": 47
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/empty-state.tsx",
-          "properties": {
-            "fontSize": {
-              "line": 50,
-              "col": 22,
-              "endCol": 24,
-              "raw": "14"
-            },
-            "textAlign": {
-              "line": 52,
-              "col": 23,
-              "endCol": 31,
-              "raw": "'center'"
-            },
-            "lineHeight": {
-              "line": 53,
-              "col": 24,
-              "endCol": 26,
-              "raw": "20"
-            }
-          }
-        }
-      ]
-    },
-    "StatCard@components/stat-card.tsx:15": {
-      "element": {
-        "file": "components/stat-card.tsx",
-        "line": 15
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/stat-card.tsx",
-          "properties": {
-            "flex": {
-              "line": 17,
-              "col": 14,
-              "endCol": 15,
-              "raw": "1"
-            },
-            "borderRadius": {
-              "line": 19,
-              "col": 22,
-              "endCol": 24,
-              "raw": "14"
-            },
-            "borderCurve": {
-              "line": 20,
-              "col": 21,
-              "endCol": 33,
-              "raw": "'continuous'"
-            },
-            "padding": {
-              "line": 21,
-              "col": 17,
-              "endCol": 19,
-              "raw": "14"
-            },
-            "gap": {
-              "line": 22,
-              "col": 13,
-              "endCol": 14,
-              "raw": "8"
-            },
-            "borderWidth": {
-              "line": 23,
-              "col": 21,
-              "endCol": 22,
-              "raw": "1"
-            }
-          }
-        }
-      ]
-    },
-    "StatCard@components/stat-card.tsx:27": {
-      "element": {
-        "file": "components/stat-card.tsx",
-        "line": 27
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/stat-card.tsx",
-          "properties": {
-            "width": {
-              "line": 29,
-              "col": 17,
-              "endCol": 19,
-              "raw": "32"
-            },
-            "height": {
-              "line": 30,
-              "col": 18,
-              "endCol": 20,
-              "raw": "32"
-            },
-            "borderRadius": {
-              "line": 31,
-              "col": 24,
-              "endCol": 25,
-              "raw": "8"
-            },
-            "borderCurve": {
-              "line": 32,
-              "col": 23,
-              "endCol": 35,
-              "raw": "'continuous'"
-            },
-            "alignItems": {
-              "line": 34,
-              "col": 22,
-              "endCol": 30,
-              "raw": "'center'"
-            },
-            "justifyContent": {
-              "line": 35,
-              "col": 26,
-              "endCol": 34,
-              "raw": "'center'"
-            }
-          }
-        }
-      ]
-    },
-    "StatCard@components/stat-card.tsx:40": {
-      "element": {
-        "file": "components/stat-card.tsx",
-        "line": 40
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/stat-card.tsx",
-          "properties": {
-            "fontSize": {
-              "line": 44,
-              "col": 20,
-              "endCol": 22,
-              "raw": "20"
-            }
-          }
-        }
-      ]
-    },
-    "StatCard@components/stat-card.tsx:51": {
-      "element": {
-        "file": "components/stat-card.tsx",
-        "line": 51
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/stat-card.tsx",
-          "properties": {
-            "fontSize": {
-              "line": 54,
-              "col": 20,
-              "endCol": 22,
-              "raw": "11"
-            },
-            "letterSpacing": {
-              "line": 56,
-              "col": 25,
-              "endCol": 28,
-              "raw": "0.2"
-            }
-          }
-        }
-      ]
-    },
-    "ActionButton@components/action-button.tsx:24": {
-      "element": {
-        "file": "components/action-button.tsx",
-        "line": 24
-      },
-      "styles": [
-        {
-          "origin": "dynamic",
-          "resolvable": false
-        }
-      ]
-    },
-    "ActionButton@components/action-button.tsx:42": {
-      "element": {
-        "file": "components/action-button.tsx",
-        "line": 42
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/action-button.tsx",
-          "properties": {
-            "width": {
-              "line": 44,
-              "col": 17,
-              "endCol": 19,
-              "raw": "36"
-            },
-            "height": {
-              "line": 45,
-              "col": 18,
-              "endCol": 20,
-              "raw": "36"
-            },
-            "borderRadius": {
-              "line": 46,
-              "col": 24,
-              "endCol": 26,
-              "raw": "18"
-            },
-            "alignItems": {
-              "line": 48,
-              "col": 22,
-              "endCol": 30,
-              "raw": "'center'"
-            },
-            "justifyContent": {
-              "line": 49,
-              "col": 26,
-              "endCol": 34,
-              "raw": "'center'"
-            }
-          }
-        }
-      ]
-    },
-    "ActionButton@components/action-button.tsx:54": {
-      "element": {
-        "file": "components/action-button.tsx",
-        "line": 54
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/action-button.tsx",
-          "properties": {
-            "fontSize": {
-              "line": 57,
-              "col": 20,
-              "endCol": 22,
-              "raw": "12"
-            },
-            "textAlign": {
-              "line": 59,
-              "col": 21,
-              "endCol": 29,
-              "raw": "'center'"
-            },
-            "letterSpacing": {
-              "line": 60,
-              "col": 25,
-              "endCol": 28,
-              "raw": "0.2"
-            }
-          }
-        }
-      ]
-    },
-    "StatusBadge@components/status-badge.tsx:11": {
-      "element": {
-        "file": "components/status-badge.tsx",
-        "line": 11
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/status-badge.tsx",
-          "properties": {
-            "flexDirection": {
-              "line": 13,
-              "col": 23,
-              "endCol": 28,
-              "raw": "'row'"
-            },
-            "alignItems": {
-              "line": 14,
-              "col": 20,
-              "endCol": 28,
-              "raw": "'center'"
-            },
-            "gap": {
-              "line": 15,
-              "col": 13,
-              "endCol": 14,
-              "raw": "5"
-            },
-            "paddingHorizontal": {
-              "line": 17,
-              "col": 27,
-              "endCol": 29,
-              "raw": "10"
-            },
-            "paddingVertical": {
-              "line": 18,
-              "col": 25,
-              "endCol": 26,
-              "raw": "4"
-            },
-            "borderRadius": {
-              "line": 19,
-              "col": 22,
-              "endCol": 24,
-              "raw": "12"
-            },
-            "borderWidth": {
-              "line": 20,
-              "col": 21,
-              "endCol": 22,
-              "raw": "1"
-            }
-          }
-        }
-      ]
-    },
-    "StatusBadge@components/status-badge.tsx:24": {
-      "element": {
-        "file": "components/status-badge.tsx",
-        "line": 24
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/status-badge.tsx",
-          "properties": {
-            "width": {
-              "line": 26,
-              "col": 17,
-              "endCol": 18,
-              "raw": "6"
-            },
-            "height": {
-              "line": 27,
-              "col": 18,
-              "endCol": 19,
-              "raw": "6"
-            },
-            "borderRadius": {
-              "line": 28,
-              "col": 24,
-              "endCol": 25,
-              "raw": "3"
-            }
-          }
-        }
-      ]
-    },
-    "StatusBadge@components/status-badge.tsx:32": {
-      "element": {
-        "file": "components/status-badge.tsx",
-        "line": 32
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/status-badge.tsx",
-          "properties": {
-            "fontSize": {
-              "line": 35,
-              "col": 20,
-              "endCol": 22,
-              "raw": "10"
-            },
-            "letterSpacing": {
-              "line": 37,
-              "col": 25,
-              "endCol": 28,
-              "raw": "0.5"
-            }
-          }
-        }
-      ]
-    },
-    "ChatMessageBubble@components/chat-message.tsx:18": {
-      "element": {
-        "file": "components/chat-message.tsx",
-        "line": 18
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/chat-message.tsx",
-          "properties": {
-            "borderRadius": {
-              "line": 21,
-              "col": 24,
-              "endCol": 26,
-              "raw": "12"
-            },
-            "borderCurve": {
-              "line": 22,
-              "col": 23,
-              "endCol": 35,
-              "raw": "'continuous'"
-            },
-            "padding": {
-              "line": 23,
-              "col": 19,
-              "endCol": 21,
-              "raw": "14"
-            },
-            "marginHorizontal": {
-              "line": 24,
-              "col": 28,
-              "endCol": 30,
-              "raw": "16"
-            },
-            "borderWidth": {
-              "line": 25,
-              "col": 23,
-              "endCol": 24,
-              "raw": "1"
-            }
-          }
-        }
-      ]
-    },
-    "ChatMessageBubble@components/chat-message.tsx:29": {
-      "element": {
-        "file": "components/chat-message.tsx",
-        "line": 29
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/chat-message.tsx",
-          "properties": {
-            "flexDirection": {
-              "line": 29,
-              "col": 38,
-              "endCol": 43,
-              "raw": "'row'"
-            },
-            "alignItems": {
-              "line": 29,
-              "col": 57,
-              "endCol": 65,
-              "raw": "'center'"
-            },
-            "gap": {
-              "line": 29,
-              "col": 72,
-              "endCol": 73,
-              "raw": "8"
-            },
-            "marginBottom": {
-              "line": 29,
-              "col": 89,
-              "endCol": 90,
-              "raw": "6"
-            }
-          }
-        }
-      ]
-    },
-    "ChatMessageBubble@components/chat-message.tsx:31": {
-      "element": {
-        "file": "components/chat-message.tsx",
-        "line": 31
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/chat-message.tsx",
-          "properties": {
-            "fontSize": {
-              "line": 31,
-              "col": 63,
-              "endCol": 65,
-              "raw": "12"
-            }
-          }
-        }
-      ]
-    },
-    "ChatMessageBubble@components/chat-message.tsx:35": {
-      "element": {
-        "file": "components/chat-message.tsx",
-        "line": 35
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/chat-message.tsx",
-          "properties": {
-            "fontSize": {
-              "line": 39,
-              "col": 22,
-              "endCol": 24,
-              "raw": "14"
-            },
-            "lineHeight": {
-              "line": 41,
-              "col": 24,
-              "endCol": 26,
-              "raw": "20"
-            }
-          }
-        }
-      ]
-    },
-    "ChatMessageBubble@components/chat-message.tsx:51": {
-      "element": {
-        "file": "components/chat-message.tsx",
-        "line": 51
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/chat-message.tsx",
-          "properties": {
-            "paddingHorizontal": {
-              "line": 54,
-              "col": 27,
-              "endCol": 29,
-              "raw": "16"
-            }
-          }
-        }
-      ]
-    },
-    "ChatMessageBubble@components/chat-message.tsx:57": {
-      "element": {
-        "file": "components/chat-message.tsx",
-        "line": 57
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/chat-message.tsx",
-          "properties": {
-            "maxWidth": {
-              "line": 59,
-              "col": 20,
-              "endCol": 25,
-              "raw": "'85%'"
-            },
-            "borderRadius": {
-              "line": 61,
-              "col": 24,
-              "endCol": 26,
-              "raw": "16"
-            },
-            "borderCurve": {
-              "line": 62,
-              "col": 23,
-              "endCol": 35,
-              "raw": "'continuous'"
-            },
-            "padding": {
-              "line": 63,
-              "col": 19,
-              "endCol": 21,
-              "raw": "14"
-            }
-          }
-        }
-      ]
-    },
-    "ChatMessageBubble@components/chat-message.tsx:70": {
-      "element": {
-        "file": "components/chat-message.tsx",
-        "line": 70
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/chat-message.tsx",
-          "properties": {
-            "fontSize": {
-              "line": 74,
-              "col": 22,
-              "endCol": 24,
-              "raw": "14"
-            },
-            "lineHeight": {
-              "line": 76,
-              "col": 24,
-              "endCol": 26,
-              "raw": "21"
-            }
-          }
-        }
-      ]
-    },
-    "ChatMessageBubble@components/chat-message.tsx:84": {
-      "element": {
-        "file": "components/chat-message.tsx",
-        "line": 84
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/chat-message.tsx",
-          "properties": {
-            "marginTop": {
-              "line": 84,
-              "col": 36,
-              "endCol": 38,
-              "raw": "10"
-            },
-            "gap": {
-              "line": 84,
-              "col": 45,
-              "endCol": 46,
-              "raw": "4"
-            }
-          }
-        }
-      ]
-    },
-    "ChatMessageBubble@components/chat-message.tsx:86": {
-      "element": {
-        "file": "components/chat-message.tsx",
-        "line": 86
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/chat-message.tsx",
-          "properties": {
-            "flexDirection": {
-              "line": 89,
-              "col": 33,
-              "endCol": 38,
-              "raw": "'row'"
-            },
-            "alignItems": {
-              "line": 90,
-              "col": 30,
-              "endCol": 38,
-              "raw": "'center'"
-            },
-            "gap": {
-              "line": 91,
-              "col": 23,
-              "endCol": 24,
-              "raw": "4"
-            },
-            "backgroundColor": {
-              "line": 92,
-              "col": 35,
-              "endCol": 52,
-              "raw": "'rgba(0,0,0,0.2)'"
-            },
-            "paddingHorizontal": {
-              "line": 93,
-              "col": 37,
-              "endCol": 38,
-              "raw": "8"
-            },
-            "paddingVertical": {
-              "line": 94,
-              "col": 35,
-              "endCol": 36,
-              "raw": "4"
-            },
-            "borderRadius": {
-              "line": 95,
-              "col": 32,
-              "endCol": 33,
-              "raw": "6"
-            },
-            "borderCurve": {
-              "line": 96,
-              "col": 31,
-              "endCol": 43,
-              "raw": "'continuous'"
-            }
-          }
-        }
-      ]
-    },
-    "ChatMessageBubble@components/chat-message.tsx:100": {
-      "element": {
-        "file": "components/chat-message.tsx",
-        "line": 100
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/chat-message.tsx",
-          "properties": {
-            "fontSize": {
-              "line": 104,
-              "col": 30,
-              "endCol": 32,
-              "raw": "11"
-            },
-            "flex": {
-              "line": 106,
-              "col": 26,
-              "endCol": 27,
-              "raw": "1"
-            }
-          }
-        }
-      ]
-    },
-    "ChatMessageBubble@components/chat-message.tsx:120": {
-      "element": {
-        "file": "components/chat-message.tsx",
-        "line": 120
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/chat-message.tsx",
-          "properties": {
-            "flexDirection": {
-              "line": 123,
-              "col": 27,
-              "endCol": 32,
-              "raw": "'row'"
-            },
-            "alignItems": {
-              "line": 124,
-              "col": 24,
-              "endCol": 32,
-              "raw": "'center'"
-            },
-            "gap": {
-              "line": 125,
-              "col": 17,
-              "endCol": 18,
-              "raw": "4"
-            },
-            "paddingHorizontal": {
-              "line": 126,
-              "col": 31,
-              "endCol": 32,
-              "raw": "8"
-            },
-            "paddingVertical": {
-              "line": 127,
-              "col": 29,
-              "endCol": 30,
-              "raw": "4"
-            },
-            "marginTop": {
-              "line": 128,
-              "col": 23,
-              "endCol": 24,
-              "raw": "4"
-            }
-          }
-        }
-      ]
-    },
-    "ChatMessageBubble@components/chat-message.tsx:132": {
-      "element": {
-        "file": "components/chat-message.tsx",
-        "line": 132
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/chat-message.tsx",
-          "properties": {
-            "fontSize": {
-              "line": 132,
-              "col": 62,
-              "endCol": 64,
-              "raw": "11"
-            }
-          }
-        }
-      ]
-    },
-    "CategoryBadge@components/category-badge.tsx:15": {
-      "element": {
-        "file": "components/category-badge.tsx",
-        "line": 15
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/category-badge.tsx",
-          "properties": {
-            "borderRadius": {
-              "line": 19,
-              "col": 22,
-              "endCol": 23,
-              "raw": "6"
-            },
-            "borderCurve": {
-              "line": 20,
-              "col": 21,
-              "endCol": 33,
-              "raw": "'continuous'"
-            },
-            "borderWidth": {
-              "line": 22,
-              "col": 21,
-              "endCol": 22,
-              "raw": "1"
-            }
-          }
-        }
-      ]
-    },
-    "CategoryBadge@components/category-badge.tsx:26": {
-      "element": {
-        "file": "components/category-badge.tsx",
-        "line": 26
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/category-badge.tsx",
-          "properties": {
-            "letterSpacing": {
-              "line": 31,
-              "col": 25,
-              "endCol": 28,
-              "raw": "0.3"
-            }
-          }
-        }
-      ]
-    },
-    "FileTypeIcon@components/file-type-icon.tsx:22": {
-      "element": {
-        "file": "components/file-type-icon.tsx",
-        "line": 22
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/file-type-icon.tsx",
-          "properties": {
-            "borderRadius": {
-              "line": 26,
-              "col": 22,
-              "endCol": 23,
-              "raw": "8"
-            },
-            "borderCurve": {
-              "line": 27,
-              "col": 21,
-              "endCol": 33,
-              "raw": "'continuous'"
-            },
-            "borderWidth": {
-              "line": 29,
-              "col": 21,
-              "endCol": 22,
-              "raw": "1"
-            },
-            "alignItems": {
-              "line": 31,
-              "col": 20,
-              "endCol": 28,
-              "raw": "'center'"
-            },
-            "justifyContent": {
-              "line": 32,
-              "col": 24,
-              "endCol": 32,
-              "raw": "'center'"
-            }
-          }
-        }
-      ]
-    },
-    "FileTypeIcon@components/file-type-icon.tsx:35": {
-      "element": {
-        "file": "components/file-type-icon.tsx",
-        "line": 35
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "components/file-type-icon.tsx",
-          "properties": {
-            "letterSpacing": {
-              "line": 40,
-              "col": 25,
-              "endCol": 28,
-              "raw": "0.5"
-            }
-          }
-        }
-      ]
-    },
-    "RootLayout@app/_layout.tsx:22": {
-      "element": {
-        "file": "app/_layout.tsx",
-        "line": 22
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/_layout.tsx",
-          "properties": {
-            "flex": {
-              "line": 22,
-              "col": 32,
-              "endCol": 33,
-              "raw": "1"
-            }
-          }
-        }
-      ]
-    },
-    "renderItem@app/(tabs)/questions.tsx:55": {
-      "element": {
-        "file": "app/(tabs)/questions.tsx",
-        "line": 55
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/questions.tsx",
-          "properties": {
-            "paddingHorizontal": {
-              "line": 55,
-              "col": 38,
-              "endCol": 40,
-              "raw": "16"
-            },
-            "paddingVertical": {
-              "line": 55,
-              "col": 59,
-              "endCol": 60,
-              "raw": "4"
-            }
-          }
-        }
-      ]
-    },
-    "QuestionsScreen@app/(tabs)/questions.tsx:68": {
-      "element": {
-        "file": "app/(tabs)/questions.tsx",
-        "line": 68
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/questions.tsx",
-          "properties": {
-            "flex": {
-              "line": 68,
-              "col": 25,
-              "endCol": 26,
-              "raw": "1"
-            }
-          }
-        }
-      ]
-    },
-    "QuestionsScreen@app/(tabs)/questions.tsx:70": {
-      "element": {
-        "file": "app/(tabs)/questions.tsx",
-        "line": 70
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/questions.tsx",
-          "properties": {
-            "gap": {
-              "line": 70,
-              "col": 55,
-              "endCol": 57,
-              "raw": "14"
-            },
-            "paddingBottom": {
-              "line": 70,
-              "col": 74,
-              "endCol": 76,
-              "raw": "12"
-            }
-          }
-        }
-      ]
-    },
-    "QuestionsScreen@app/(tabs)/questions.tsx:71": {
-      "element": {
-        "file": "app/(tabs)/questions.tsx",
-        "line": 71
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/questions.tsx",
-          "properties": {
-            "paddingHorizontal": {
-              "line": 71,
-              "col": 42,
-              "endCol": 44,
-              "raw": "20"
-            },
-            "flexDirection": {
-              "line": 71,
-              "col": 61,
-              "endCol": 66,
-              "raw": "'row'"
-            },
-            "justifyContent": {
-              "line": 71,
-              "col": 84,
-              "endCol": 99,
-              "raw": "'space-between'"
-            },
-            "alignItems": {
-              "line": 71,
-              "col": 113,
-              "endCol": 121,
-              "raw": "'center'"
-            }
-          }
-        }
-      ]
-    },
-    "QuestionsScreen@app/(tabs)/questions.tsx:72": {
-      "element": {
-        "file": "app/(tabs)/questions.tsx",
-        "line": 72
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/questions.tsx",
-          "properties": {
-            "fontSize": {
-              "line": 75,
-              "col": 24,
-              "endCol": 26,
-              "raw": "28"
-            },
-            "letterSpacing": {
-              "line": 77,
-              "col": 29,
-              "endCol": 33,
-              "raw": "-0.5"
-            }
-          }
-        }
-      ]
-    },
-    "QuestionsScreen@app/(tabs)/questions.tsx:83": {
-      "element": {
-        "file": "app/(tabs)/questions.tsx",
-        "line": 83
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/questions.tsx",
-          "properties": {
-            "flexDirection": {
-              "line": 93,
-              "col": 29,
-              "endCol": 34,
-              "raw": "'row'"
-            },
-            "alignItems": {
-              "line": 94,
-              "col": 26,
-              "endCol": 34,
-              "raw": "'center'"
-            },
-            "gap": {
-              "line": 95,
-              "col": 19,
-              "endCol": 20,
-              "raw": "6"
-            },
-            "paddingHorizontal": {
-              "line": 97,
-              "col": 33,
-              "endCol": 35,
-              "raw": "12"
-            },
-            "paddingVertical": {
-              "line": 98,
-              "col": 31,
-              "endCol": 32,
-              "raw": "8"
-            },
-            "borderRadius": {
-              "line": 99,
-              "col": 28,
-              "endCol": 30,
-              "raw": "10"
-            },
-            "borderCurve": {
-              "line": 100,
-              "col": 27,
-              "endCol": 39,
-              "raw": "'continuous'"
-            },
-            "borderWidth": {
-              "line": 101,
-              "col": 27,
-              "endCol": 28,
-              "raw": "1"
-            }
-          }
-        }
-      ]
-    },
-    "QuestionsScreen@app/(tabs)/questions.tsx:106": {
-      "element": {
-        "file": "app/(tabs)/questions.tsx",
-        "line": 106
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/questions.tsx",
-          "properties": {
-            "fontSize": {
-              "line": 106,
-              "col": 65,
-              "endCol": 67,
-              "raw": "12"
-            }
-          }
-        }
-      ]
-    },
-    "QuestionsScreen@app/(tabs)/questions.tsx:113": {
-      "element": {
-        "file": "app/(tabs)/questions.tsx",
-        "line": 113
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/questions.tsx",
-          "properties": {
-            "flexDirection": {
-              "line": 115,
-              "col": 27,
-              "endCol": 32,
-              "raw": "'row'"
-            },
-            "marginHorizontal": {
-              "line": 116,
-              "col": 30,
-              "endCol": 32,
-              "raw": "16"
-            },
-            "borderRadius": {
-              "line": 118,
-              "col": 26,
-              "endCol": 28,
-              "raw": "12"
-            },
-            "borderCurve": {
-              "line": 119,
-              "col": 25,
-              "endCol": 37,
-              "raw": "'continuous'"
-            },
-            "padding": {
-              "line": 120,
-              "col": 21,
-              "endCol": 22,
-              "raw": "4"
-            },
-            "borderWidth": {
-              "line": 121,
-              "col": 25,
-              "endCol": 26,
-              "raw": "1"
-            }
-          }
-        }
-      ]
-    },
-    "QuestionsScreen@app/(tabs)/questions.tsx:128": {
-      "element": {
-        "file": "app/(tabs)/questions.tsx",
-        "line": 128
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/questions.tsx",
-          "properties": {
-            "flex": {
-              "line": 132,
-              "col": 24,
-              "endCol": 25,
-              "raw": "1"
-            },
-            "paddingVertical": {
-              "line": 133,
-              "col": 35,
-              "endCol": 37,
-              "raw": "10"
-            },
-            "borderRadius": {
-              "line": 134,
-              "col": 32,
-              "endCol": 33,
-              "raw": "9"
-            },
-            "borderCurve": {
-              "line": 135,
-              "col": 31,
-              "endCol": 43,
-              "raw": "'continuous'"
-            },
-            "alignItems": {
-              "line": 137,
-              "col": 30,
-              "endCol": 38,
-              "raw": "'center'"
-            }
-          }
-        }
-      ]
-    },
-    "QuestionsScreen@app/(tabs)/questions.tsx:140": {
-      "element": {
-        "file": "app/(tabs)/questions.tsx",
-        "line": 140
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/questions.tsx",
-          "properties": {
-            "fontSize": {
-              "line": 143,
-              "col": 30,
-              "endCol": 32,
-              "raw": "14"
-            }
-          }
-        }
-      ]
-    },
-    "QuestionsScreen@app/(tabs)/questions.tsx:155": {
-      "element": {
-        "file": "app/(tabs)/questions.tsx",
-        "line": 155
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/questions.tsx",
-          "properties": {
-            "paddingHorizontal": {
-              "line": 155,
-              "col": 42,
-              "endCol": 44,
-              "raw": "16"
-            }
-          }
-        }
-      ]
-    },
-    "QuestionsScreen@app/(tabs)/questions.tsx:156": {
-      "element": {
-        "file": "app/(tabs)/questions.tsx",
-        "line": 156
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/questions.tsx",
-          "properties": {
-            "flexDirection": {
-              "line": 158,
-              "col": 29,
-              "endCol": 34,
-              "raw": "'row'"
-            },
-            "alignItems": {
-              "line": 159,
-              "col": 26,
-              "endCol": 34,
-              "raw": "'center'"
-            },
-            "borderRadius": {
-              "line": 161,
-              "col": 28,
-              "endCol": 30,
-              "raw": "12"
-            },
-            "borderCurve": {
-              "line": 162,
-              "col": 27,
-              "endCol": 39,
-              "raw": "'continuous'"
-            },
-            "paddingHorizontal": {
-              "line": 163,
-              "col": 33,
-              "endCol": 35,
-              "raw": "12"
-            },
-            "borderWidth": {
-              "line": 164,
-              "col": 27,
-              "endCol": 28,
-              "raw": "1"
-            },
-            "gap": {
-              "line": 166,
-              "col": 19,
-              "endCol": 20,
-              "raw": "8"
-            },
-            "minHeight": {
-              "line": 167,
-              "col": 25,
-              "endCol": 27,
-              "raw": "44"
-            }
-          }
-        }
-      ]
-    },
-    "QuestionsScreen@app/(tabs)/questions.tsx:171": {
-      "element": {
-        "file": "app/(tabs)/questions.tsx",
-        "line": 171
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/questions.tsx",
-          "properties": {
-            "flex": {
-              "line": 178,
-              "col": 22,
-              "endCol": 23,
-              "raw": "1"
-            },
-            "fontSize": {
-              "line": 180,
-              "col": 26,
-              "endCol": 28,
-              "raw": "14"
-            },
-            "paddingVertical": {
-              "line": 182,
-              "col": 33,
-              "endCol": 35,
-              "raw": "10"
-            }
-          }
-        }
-      ]
-    },
-    "QuestionsScreen@app/(tabs)/questions.tsx:214": {
-      "element": {
-        "file": "app/(tabs)/questions.tsx",
-        "line": 214
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/questions.tsx",
-          "properties": {
-            "paddingHorizontal": {
-              "line": 214,
-              "col": 46,
-              "endCol": 48,
-              "raw": "20"
-            },
-            "paddingVertical": {
-              "line": 214,
-              "col": 67,
-              "endCol": 68,
-              "raw": "8"
-            }
-          }
-        }
-      ]
-    },
-    "QuestionsScreen@app/(tabs)/questions.tsx:215": {
-      "element": {
-        "file": "app/(tabs)/questions.tsx",
-        "line": 215
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/questions.tsx",
-          "properties": {
-            "fontSize": {
-              "line": 215,
-              "col": 65,
-              "endCol": 67,
-              "raw": "13"
-            }
-          }
-        }
-      ]
-    },
-    "renderResult@app/(tabs)/search.tsx:64": {
-      "element": {
-        "file": "app/(tabs)/search.tsx",
-        "line": 64
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/search.tsx",
-          "properties": {
-            "paddingHorizontal": {
-              "line": 64,
-              "col": 38,
-              "endCol": 40,
-              "raw": "16"
-            },
-            "paddingVertical": {
-              "line": 64,
-              "col": 59,
-              "endCol": 60,
-              "raw": "4"
-            }
-          }
-        }
-      ]
-    },
-    "SearchScreen@app/(tabs)/search.tsx:81": {
-      "element": {
-        "file": "app/(tabs)/search.tsx",
-        "line": 81
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/search.tsx",
-          "properties": {
-            "flex": {
-              "line": 81,
-              "col": 25,
-              "endCol": 26,
-              "raw": "1"
-            }
-          }
-        }
-      ]
-    },
-    "SearchScreen@app/(tabs)/search.tsx:83": {
-      "element": {
-        "file": "app/(tabs)/search.tsx",
-        "line": 83
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/search.tsx",
-          "properties": {
-            "gap": {
-              "line": 83,
-              "col": 55,
-              "endCol": 57,
-              "raw": "14"
-            },
-            "paddingBottom": {
-              "line": 83,
-              "col": 74,
-              "endCol": 76,
-              "raw": "12"
-            }
-          }
-        }
-      ]
-    },
-    "SearchScreen@app/(tabs)/search.tsx:84": {
-      "element": {
-        "file": "app/(tabs)/search.tsx",
-        "line": 84
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/search.tsx",
-          "properties": {
-            "paddingHorizontal": {
-              "line": 84,
-              "col": 42,
-              "endCol": 44,
-              "raw": "20"
-            }
-          }
-        }
-      ]
-    },
-    "SearchScreen@app/(tabs)/search.tsx:85": {
-      "element": {
-        "file": "app/(tabs)/search.tsx",
-        "line": 85
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/search.tsx",
-          "properties": {
-            "fontSize": {
-              "line": 88,
-              "col": 24,
-              "endCol": 26,
-              "raw": "28"
-            },
-            "letterSpacing": {
-              "line": 90,
-              "col": 29,
-              "endCol": 33,
-              "raw": "-0.5"
-            }
-          }
-        }
-      ]
-    },
-    "SearchScreen@app/(tabs)/search.tsx:98": {
-      "element": {
-        "file": "app/(tabs)/search.tsx",
-        "line": 98
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/search.tsx",
-          "properties": {
-            "paddingHorizontal": {
-              "line": 98,
-              "col": 42,
-              "endCol": 44,
-              "raw": "16"
-            }
-          }
-        }
-      ]
-    },
-    "SearchScreen@app/(tabs)/search.tsx:99": {
-      "element": {
-        "file": "app/(tabs)/search.tsx",
-        "line": 99
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/search.tsx",
-          "properties": {
-            "flexDirection": {
-              "line": 101,
-              "col": 29,
-              "endCol": 34,
-              "raw": "'row'"
-            },
-            "alignItems": {
-              "line": 102,
-              "col": 26,
-              "endCol": 34,
-              "raw": "'center'"
-            },
-            "borderRadius": {
-              "line": 104,
-              "col": 28,
-              "endCol": 30,
-              "raw": "14"
-            },
-            "borderCurve": {
-              "line": 105,
-              "col": 27,
-              "endCol": 39,
-              "raw": "'continuous'"
-            },
-            "paddingHorizontal": {
-              "line": 106,
-              "col": 33,
-              "endCol": 35,
-              "raw": "14"
-            },
-            "borderWidth": {
-              "line": 107,
-              "col": 27,
-              "endCol": 30,
-              "raw": "1.5"
-            },
-            "gap": {
-              "line": 109,
-              "col": 19,
-              "endCol": 21,
-              "raw": "10"
-            },
-            "minHeight": {
-              "line": 110,
-              "col": 25,
-              "endCol": 27,
-              "raw": "50"
-            }
-          }
-        }
-      ]
-    },
-    "SearchScreen@app/(tabs)/search.tsx:114": {
-      "element": {
-        "file": "app/(tabs)/search.tsx",
-        "line": 114
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/search.tsx",
-          "properties": {
-            "flex": {
-              "line": 125,
-              "col": 22,
-              "endCol": 23,
-              "raw": "1"
-            },
-            "fontSize": {
-              "line": 127,
-              "col": 26,
-              "endCol": 28,
-              "raw": "15"
-            },
-            "paddingVertical": {
-              "line": 129,
-              "col": 33,
-              "endCol": 35,
-              "raw": "12"
-            }
-          }
-        }
-      ]
-    },
-    "SearchScreen@app/(tabs)/search.tsx:149": {
-      "element": {
-        "file": "app/(tabs)/search.tsx",
-        "line": 149
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/search.tsx",
-          "properties": {
-            "paddingHorizontal": {
-              "line": 153,
-              "col": 37,
-              "endCol": 39,
-              "raw": "14"
-            },
-            "paddingVertical": {
-              "line": 154,
-              "col": 35,
-              "endCol": 36,
-              "raw": "7"
-            },
-            "borderRadius": {
-              "line": 155,
-              "col": 32,
-              "endCol": 34,
-              "raw": "20"
-            },
-            "borderCurve": {
-              "line": 156,
-              "col": 31,
-              "endCol": 43,
-              "raw": "'continuous'"
-            },
-            "borderWidth": {
-              "line": 158,
-              "col": 31,
-              "endCol": 32,
-              "raw": "1"
-            }
-          }
-        }
-      ]
-    },
-    "SearchScreen@app/(tabs)/search.tsx:162": {
-      "element": {
-        "file": "app/(tabs)/search.tsx",
-        "line": 162
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/search.tsx",
-          "properties": {
-            "fontSize": {
-              "line": 165,
-              "col": 30,
-              "endCol": 32,
-              "raw": "13"
-            }
-          }
-        }
-      ]
-    },
-    "SearchScreen@app/(tabs)/search.tsx:185": {
-      "element": {
-        "file": "app/(tabs)/search.tsx",
-        "line": 185
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/search.tsx",
-          "properties": {
-            "gap": {
-              "line": 185,
-              "col": 32,
-              "endCol": 34,
-              "raw": "12"
-            }
-          }
-        }
-      ]
-    },
-    "SearchScreen@app/(tabs)/search.tsx:186": {
-      "element": {
-        "file": "app/(tabs)/search.tsx",
-        "line": 186
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/search.tsx",
-          "properties": {
-            "flexDirection": {
-              "line": 186,
-              "col": 44,
-              "endCol": 49,
-              "raw": "'row'"
-            },
-            "justifyContent": {
-              "line": 186,
-              "col": 67,
-              "endCol": 82,
-              "raw": "'space-between'"
-            },
-            "alignItems": {
-              "line": 186,
-              "col": 96,
-              "endCol": 104,
-              "raw": "'center'"
-            }
-          }
-        }
-      ]
-    },
-    "SearchScreen@app/(tabs)/search.tsx:187": {
-      "element": {
-        "file": "app/(tabs)/search.tsx",
-        "line": 187
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/search.tsx",
-          "properties": {
-            "fontSize": {
-              "line": 187,
-              "col": 69,
-              "endCol": 71,
-              "raw": "15"
-            }
-          }
-        }
-      ]
-    },
-    "SearchScreen@app/(tabs)/search.tsx:191": {
-      "element": {
-        "file": "app/(tabs)/search.tsx",
-        "line": 191
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/search.tsx",
-          "properties": {
-            "fontSize": {
-              "line": 191,
-              "col": 69,
-              "endCol": 71,
-              "raw": "13"
-            }
-          }
-        }
-      ]
-    },
-    "SearchScreen@app/(tabs)/search.tsx:197": {
-      "element": {
-        "file": "app/(tabs)/search.tsx",
-        "line": 197
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/search.tsx",
-          "properties": {
-            "flexDirection": {
-              "line": 201,
-              "col": 35,
-              "endCol": 40,
-              "raw": "'row'"
-            },
-            "alignItems": {
-              "line": 202,
-              "col": 32,
-              "endCol": 40,
-              "raw": "'center'"
-            },
-            "gap": {
-              "line": 203,
-              "col": 25,
-              "endCol": 27,
-              "raw": "10"
-            },
-            "paddingVertical": {
-              "line": 204,
-              "col": 37,
-              "endCol": 38,
-              "raw": "8"
-            }
-          }
-        }
-      ]
-    },
-    "SearchScreen@app/(tabs)/search.tsx:208": {
-      "element": {
-        "file": "app/(tabs)/search.tsx",
-        "line": 208
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/search.tsx",
-          "properties": {
-            "fontSize": {
-              "line": 208,
-              "col": 70,
-              "endCol": 72,
-              "raw": "14"
-            },
-            "flex": {
-              "line": 208,
-              "col": 109,
-              "endCol": 110,
-              "raw": "1"
-            }
-          }
-        }
-      ]
-    },
-    "SearchScreen@app/(tabs)/search.tsx:218": {
-      "element": {
-        "file": "app/(tabs)/search.tsx",
-        "line": 218
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/search.tsx",
-          "properties": {
-            "marginTop": {
-              "line": 218,
-              "col": 36,
-              "endCol": 38,
-              "raw": "32"
-            },
-            "gap": {
-              "line": 218,
-              "col": 45,
-              "endCol": 47,
-              "raw": "12"
-            }
-          }
-        }
-      ]
-    },
-    "SearchScreen@app/(tabs)/search.tsx:219": {
-      "element": {
-        "file": "app/(tabs)/search.tsx",
-        "line": 219
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/search.tsx",
-          "properties": {
-            "fontSize": {
-              "line": 219,
-              "col": 65,
-              "endCol": 67,
-              "raw": "15"
-            }
-          }
-        }
-      ]
-    },
-    "SearchScreen@app/(tabs)/search.tsx:228": {
-      "element": {
-        "file": "app/(tabs)/search.tsx",
-        "line": 228
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/search.tsx",
-          "properties": {
-            "flexDirection": {
-              "line": 228,
-              "col": 52,
-              "endCol": 57,
-              "raw": "'row'"
-            },
-            "alignItems": {
-              "line": 228,
-              "col": 71,
-              "endCol": 83,
-              "raw": "'flex-start'"
-            },
-            "gap": {
-              "line": 228,
-              "col": 90,
-              "endCol": 92,
-              "raw": "10"
-            }
-          }
-        }
-      ]
-    },
-    "SearchScreen@app/(tabs)/search.tsx:229": {
-      "element": {
-        "file": "app/(tabs)/search.tsx",
-        "line": 229
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/search.tsx",
-          "properties": {
-            "marginTop": {
-              "line": 229,
-              "col": 94,
-              "endCol": 95,
-              "raw": "2"
-            }
-          }
-        }
-      ]
-    },
-    "SearchScreen@app/(tabs)/search.tsx:230": {
-      "element": {
-        "file": "app/(tabs)/search.tsx",
-        "line": 230
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/search.tsx",
-          "properties": {
-            "fontSize": {
-              "line": 230,
-              "col": 68,
-              "endCol": 70,
-              "raw": "13"
-            },
-            "flex": {
-              "line": 230,
-              "col": 107,
-              "endCol": 108,
-              "raw": "1"
-            },
-            "lineHeight": {
-              "line": 230,
-              "col": 122,
-              "endCol": 124,
-              "raw": "19"
-            }
-          }
-        }
-      ]
-    },
-    "SearchScreen@app/(tabs)/search.tsx:256": {
-      "element": {
-        "file": "app/(tabs)/search.tsx",
-        "line": 256
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/search.tsx",
-          "properties": {
-            "paddingHorizontal": {
-              "line": 256,
-              "col": 48,
-              "endCol": 50,
-              "raw": "20"
-            },
-            "paddingVertical": {
-              "line": 256,
-              "col": 69,
-              "endCol": 70,
-              "raw": "8"
-            }
-          }
-        }
-      ]
-    },
-    "SearchScreen@app/(tabs)/search.tsx:257": {
-      "element": {
-        "file": "app/(tabs)/search.tsx",
-        "line": 257
-      },
-      "styles": [
-        {
-          "origin": "inline",
-          "file": "app/(tabs)/search.tsx",
-          "properties": {
-            "fontSize": {
-              "line": 257,
-              "col": 67,
-              "endCol": 69,
-              "raw": "13"
-            }
-          }
         }
       ]
     },
@@ -5150,6 +2270,2652 @@
         }
       ]
     },
+    "CategoryFilter@components/category-filter.tsx:22": {
+      "element": {
+        "file": "components/category-filter.tsx",
+        "line": 22
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/category-filter.tsx",
+          "properties": {
+            "paddingHorizontal": {
+              "line": 26,
+              "col": 33,
+              "endCol": 35,
+              "raw": "14"
+            },
+            "paddingVertical": {
+              "line": 27,
+              "col": 31,
+              "endCol": 32,
+              "raw": "8"
+            },
+            "borderRadius": {
+              "line": 28,
+              "col": 28,
+              "endCol": 30,
+              "raw": "10"
+            },
+            "borderCurve": {
+              "line": 29,
+              "col": 27,
+              "endCol": 39,
+              "raw": "'continuous'"
+            },
+            "borderWidth": {
+              "line": 31,
+              "col": 27,
+              "endCol": 28,
+              "raw": "1"
+            },
+            "minHeight": {
+              "line": 33,
+              "col": 25,
+              "endCol": 27,
+              "raw": "36"
+            },
+            "justifyContent": {
+              "line": 34,
+              "col": 30,
+              "endCol": 38,
+              "raw": "'center'"
+            }
+          }
+        }
+      ]
+    },
+    "CategoryFilter@components/category-filter.tsx:37": {
+      "element": {
+        "file": "components/category-filter.tsx",
+        "line": 37
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/category-filter.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 40,
+              "col": 26,
+              "endCol": 28,
+              "raw": "13"
+            }
+          }
+        }
+      ]
+    },
+    "DocumentCard@components/document-card.tsx:19": {
+      "element": {
+        "file": "components/document-card.tsx",
+        "line": 19
+      },
+      "styles": [
+        {
+          "origin": "dynamic",
+          "resolvable": false
+        }
+      ]
+    },
+    "DocumentCard@components/document-card.tsx:36": {
+      "element": {
+        "file": "components/document-card.tsx",
+        "line": 36
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/document-card.tsx",
+          "properties": {
+            "flex": {
+              "line": 36,
+              "col": 27,
+              "endCol": 28,
+              "raw": "1"
+            },
+            "gap": {
+              "line": 36,
+              "col": 35,
+              "endCol": 36,
+              "raw": "4"
+            }
+          }
+        }
+      ]
+    },
+    "DocumentCard@components/document-card.tsx:49": {
+      "element": {
+        "file": "components/document-card.tsx",
+        "line": 49
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/document-card.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 49,
+              "col": 38,
+              "endCol": 43,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 49,
+              "col": 57,
+              "endCol": 65,
+              "raw": "'center'"
+            },
+            "gap": {
+              "line": 49,
+              "col": 72,
+              "endCol": 73,
+              "raw": "8"
+            }
+          }
+        }
+      ]
+    },
+    "DocumentCard@components/document-card.tsx:51": {
+      "element": {
+        "file": "components/document-card.tsx",
+        "line": 51
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/document-card.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 54,
+              "col": 24,
+              "endCol": 26,
+              "raw": "12"
+            }
+          }
+        }
+      ]
+    },
+    "DocumentCard@components/document-card.tsx:63": {
+      "element": {
+        "file": "components/document-card.tsx",
+        "line": 63
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/document-card.tsx",
+          "properties": {
+            "alignItems": {
+              "line": 63,
+              "col": 33,
+              "endCol": 43,
+              "raw": "'flex-end'"
+            },
+            "gap": {
+              "line": 63,
+              "col": 50,
+              "endCol": 51,
+              "raw": "4"
+            }
+          }
+        }
+      ]
+    },
+    "DocumentCard@components/document-card.tsx:64": {
+      "element": {
+        "file": "components/document-card.tsx",
+        "line": 64
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/document-card.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 67,
+              "col": 22,
+              "endCol": 24,
+              "raw": "12"
+            }
+          }
+        }
+      ]
+    },
+    "EmptyState@components/empty-state.tsx:15": {
+      "element": {
+        "file": "components/empty-state.tsx",
+        "line": 15
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/empty-state.tsx",
+          "properties": {
+            "alignItems": {
+              "line": 17,
+              "col": 20,
+              "endCol": 28,
+              "raw": "'center'"
+            },
+            "justifyContent": {
+              "line": 18,
+              "col": 24,
+              "endCol": 32,
+              "raw": "'center'"
+            },
+            "paddingVertical": {
+              "line": 19,
+              "col": 25,
+              "endCol": 27,
+              "raw": "60"
+            },
+            "paddingHorizontal": {
+              "line": 20,
+              "col": 27,
+              "endCol": 29,
+              "raw": "32"
+            },
+            "gap": {
+              "line": 21,
+              "col": 13,
+              "endCol": 15,
+              "raw": "16"
+            }
+          }
+        }
+      ]
+    },
+    "EmptyState@components/empty-state.tsx:24": {
+      "element": {
+        "file": "components/empty-state.tsx",
+        "line": 24
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/empty-state.tsx",
+          "properties": {
+            "width": {
+              "line": 26,
+              "col": 17,
+              "endCol": 19,
+              "raw": "72"
+            },
+            "height": {
+              "line": 27,
+              "col": 18,
+              "endCol": 20,
+              "raw": "72"
+            },
+            "borderRadius": {
+              "line": 28,
+              "col": 24,
+              "endCol": 26,
+              "raw": "36"
+            },
+            "alignItems": {
+              "line": 30,
+              "col": 22,
+              "endCol": 30,
+              "raw": "'center'"
+            },
+            "justifyContent": {
+              "line": 31,
+              "col": 26,
+              "endCol": 34,
+              "raw": "'center'"
+            }
+          }
+        }
+      ]
+    },
+    "EmptyState@components/empty-state.tsx:36": {
+      "element": {
+        "file": "components/empty-state.tsx",
+        "line": 36
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/empty-state.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 39,
+              "col": 20,
+              "endCol": 22,
+              "raw": "17"
+            },
+            "textAlign": {
+              "line": 41,
+              "col": 21,
+              "endCol": 29,
+              "raw": "'center'"
+            }
+          }
+        }
+      ]
+    },
+    "EmptyState@components/empty-state.tsx:47": {
+      "element": {
+        "file": "components/empty-state.tsx",
+        "line": 47
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/empty-state.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 50,
+              "col": 22,
+              "endCol": 24,
+              "raw": "14"
+            },
+            "textAlign": {
+              "line": 52,
+              "col": 23,
+              "endCol": 31,
+              "raw": "'center'"
+            },
+            "lineHeight": {
+              "line": 53,
+              "col": 24,
+              "endCol": 26,
+              "raw": "20"
+            }
+          }
+        }
+      ]
+    },
+    "StatusBadge@components/status-badge.tsx:11": {
+      "element": {
+        "file": "components/status-badge.tsx",
+        "line": 11
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/status-badge.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 13,
+              "col": 23,
+              "endCol": 28,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 14,
+              "col": 20,
+              "endCol": 28,
+              "raw": "'center'"
+            },
+            "gap": {
+              "line": 15,
+              "col": 13,
+              "endCol": 14,
+              "raw": "5"
+            },
+            "paddingHorizontal": {
+              "line": 17,
+              "col": 27,
+              "endCol": 29,
+              "raw": "10"
+            },
+            "paddingVertical": {
+              "line": 18,
+              "col": 25,
+              "endCol": 26,
+              "raw": "4"
+            },
+            "borderRadius": {
+              "line": 19,
+              "col": 22,
+              "endCol": 24,
+              "raw": "12"
+            },
+            "borderWidth": {
+              "line": 20,
+              "col": 21,
+              "endCol": 22,
+              "raw": "1"
+            }
+          }
+        }
+      ]
+    },
+    "StatusBadge@components/status-badge.tsx:24": {
+      "element": {
+        "file": "components/status-badge.tsx",
+        "line": 24
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/status-badge.tsx",
+          "properties": {
+            "width": {
+              "line": 26,
+              "col": 17,
+              "endCol": 18,
+              "raw": "6"
+            },
+            "height": {
+              "line": 27,
+              "col": 18,
+              "endCol": 19,
+              "raw": "6"
+            },
+            "borderRadius": {
+              "line": 28,
+              "col": 24,
+              "endCol": 25,
+              "raw": "3"
+            }
+          }
+        }
+      ]
+    },
+    "StatusBadge@components/status-badge.tsx:32": {
+      "element": {
+        "file": "components/status-badge.tsx",
+        "line": 32
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/status-badge.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 35,
+              "col": 20,
+              "endCol": 22,
+              "raw": "10"
+            },
+            "letterSpacing": {
+              "line": 37,
+              "col": 25,
+              "endCol": 28,
+              "raw": "0.5"
+            }
+          }
+        }
+      ]
+    },
+    "ChatMessageBubble@components/chat-message.tsx:18": {
+      "element": {
+        "file": "components/chat-message.tsx",
+        "line": 18
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/chat-message.tsx",
+          "properties": {
+            "borderRadius": {
+              "line": 21,
+              "col": 24,
+              "endCol": 26,
+              "raw": "12"
+            },
+            "borderCurve": {
+              "line": 22,
+              "col": 23,
+              "endCol": 35,
+              "raw": "'continuous'"
+            },
+            "padding": {
+              "line": 23,
+              "col": 19,
+              "endCol": 21,
+              "raw": "14"
+            },
+            "marginHorizontal": {
+              "line": 24,
+              "col": 28,
+              "endCol": 30,
+              "raw": "16"
+            },
+            "borderWidth": {
+              "line": 25,
+              "col": 23,
+              "endCol": 24,
+              "raw": "1"
+            }
+          }
+        }
+      ]
+    },
+    "ChatMessageBubble@components/chat-message.tsx:29": {
+      "element": {
+        "file": "components/chat-message.tsx",
+        "line": 29
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/chat-message.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 29,
+              "col": 38,
+              "endCol": 43,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 29,
+              "col": 57,
+              "endCol": 65,
+              "raw": "'center'"
+            },
+            "gap": {
+              "line": 29,
+              "col": 72,
+              "endCol": 73,
+              "raw": "8"
+            },
+            "marginBottom": {
+              "line": 29,
+              "col": 89,
+              "endCol": 90,
+              "raw": "6"
+            }
+          }
+        }
+      ]
+    },
+    "ChatMessageBubble@components/chat-message.tsx:31": {
+      "element": {
+        "file": "components/chat-message.tsx",
+        "line": 31
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/chat-message.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 31,
+              "col": 63,
+              "endCol": 65,
+              "raw": "12"
+            }
+          }
+        }
+      ]
+    },
+    "ChatMessageBubble@components/chat-message.tsx:35": {
+      "element": {
+        "file": "components/chat-message.tsx",
+        "line": 35
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/chat-message.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 39,
+              "col": 22,
+              "endCol": 24,
+              "raw": "14"
+            },
+            "lineHeight": {
+              "line": 41,
+              "col": 24,
+              "endCol": 26,
+              "raw": "20"
+            }
+          }
+        }
+      ]
+    },
+    "ChatMessageBubble@components/chat-message.tsx:51": {
+      "element": {
+        "file": "components/chat-message.tsx",
+        "line": 51
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/chat-message.tsx",
+          "properties": {
+            "paddingHorizontal": {
+              "line": 54,
+              "col": 27,
+              "endCol": 29,
+              "raw": "16"
+            }
+          }
+        }
+      ]
+    },
+    "ChatMessageBubble@components/chat-message.tsx:57": {
+      "element": {
+        "file": "components/chat-message.tsx",
+        "line": 57
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/chat-message.tsx",
+          "properties": {
+            "maxWidth": {
+              "line": 59,
+              "col": 20,
+              "endCol": 25,
+              "raw": "'85%'"
+            },
+            "borderRadius": {
+              "line": 61,
+              "col": 24,
+              "endCol": 26,
+              "raw": "16"
+            },
+            "borderCurve": {
+              "line": 62,
+              "col": 23,
+              "endCol": 35,
+              "raw": "'continuous'"
+            },
+            "padding": {
+              "line": 63,
+              "col": 19,
+              "endCol": 21,
+              "raw": "14"
+            }
+          }
+        }
+      ]
+    },
+    "ChatMessageBubble@components/chat-message.tsx:70": {
+      "element": {
+        "file": "components/chat-message.tsx",
+        "line": 70
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/chat-message.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 74,
+              "col": 22,
+              "endCol": 24,
+              "raw": "14"
+            },
+            "lineHeight": {
+              "line": 76,
+              "col": 24,
+              "endCol": 26,
+              "raw": "21"
+            }
+          }
+        }
+      ]
+    },
+    "ChatMessageBubble@components/chat-message.tsx:84": {
+      "element": {
+        "file": "components/chat-message.tsx",
+        "line": 84
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/chat-message.tsx",
+          "properties": {
+            "marginTop": {
+              "line": 84,
+              "col": 36,
+              "endCol": 38,
+              "raw": "10"
+            },
+            "gap": {
+              "line": 84,
+              "col": 45,
+              "endCol": 46,
+              "raw": "4"
+            }
+          }
+        }
+      ]
+    },
+    "ChatMessageBubble@components/chat-message.tsx:86": {
+      "element": {
+        "file": "components/chat-message.tsx",
+        "line": 86
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/chat-message.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 89,
+              "col": 33,
+              "endCol": 38,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 90,
+              "col": 30,
+              "endCol": 38,
+              "raw": "'center'"
+            },
+            "gap": {
+              "line": 91,
+              "col": 23,
+              "endCol": 24,
+              "raw": "4"
+            },
+            "backgroundColor": {
+              "line": 92,
+              "col": 35,
+              "endCol": 52,
+              "raw": "'rgba(0,0,0,0.2)'"
+            },
+            "paddingHorizontal": {
+              "line": 93,
+              "col": 37,
+              "endCol": 38,
+              "raw": "8"
+            },
+            "paddingVertical": {
+              "line": 94,
+              "col": 35,
+              "endCol": 36,
+              "raw": "4"
+            },
+            "borderRadius": {
+              "line": 95,
+              "col": 32,
+              "endCol": 33,
+              "raw": "6"
+            },
+            "borderCurve": {
+              "line": 96,
+              "col": 31,
+              "endCol": 43,
+              "raw": "'continuous'"
+            }
+          }
+        }
+      ]
+    },
+    "ChatMessageBubble@components/chat-message.tsx:100": {
+      "element": {
+        "file": "components/chat-message.tsx",
+        "line": 100
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/chat-message.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 104,
+              "col": 30,
+              "endCol": 32,
+              "raw": "11"
+            },
+            "flex": {
+              "line": 106,
+              "col": 26,
+              "endCol": 27,
+              "raw": "1"
+            }
+          }
+        }
+      ]
+    },
+    "ChatMessageBubble@components/chat-message.tsx:120": {
+      "element": {
+        "file": "components/chat-message.tsx",
+        "line": 120
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/chat-message.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 123,
+              "col": 27,
+              "endCol": 32,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 124,
+              "col": 24,
+              "endCol": 32,
+              "raw": "'center'"
+            },
+            "gap": {
+              "line": 125,
+              "col": 17,
+              "endCol": 18,
+              "raw": "4"
+            },
+            "paddingHorizontal": {
+              "line": 126,
+              "col": 31,
+              "endCol": 32,
+              "raw": "8"
+            },
+            "paddingVertical": {
+              "line": 127,
+              "col": 29,
+              "endCol": 30,
+              "raw": "4"
+            },
+            "marginTop": {
+              "line": 128,
+              "col": 23,
+              "endCol": 24,
+              "raw": "4"
+            }
+          }
+        }
+      ]
+    },
+    "ChatMessageBubble@components/chat-message.tsx:132": {
+      "element": {
+        "file": "components/chat-message.tsx",
+        "line": 132
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/chat-message.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 132,
+              "col": 62,
+              "endCol": 64,
+              "raw": "11"
+            }
+          }
+        }
+      ]
+    },
+    "CategoryBadge@components/category-badge.tsx:15": {
+      "element": {
+        "file": "components/category-badge.tsx",
+        "line": 15
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/category-badge.tsx",
+          "properties": {
+            "borderRadius": {
+              "line": 19,
+              "col": 22,
+              "endCol": 23,
+              "raw": "6"
+            },
+            "borderCurve": {
+              "line": 20,
+              "col": 21,
+              "endCol": 33,
+              "raw": "'continuous'"
+            },
+            "borderWidth": {
+              "line": 22,
+              "col": 21,
+              "endCol": 22,
+              "raw": "1"
+            }
+          }
+        }
+      ]
+    },
+    "CategoryBadge@components/category-badge.tsx:26": {
+      "element": {
+        "file": "components/category-badge.tsx",
+        "line": 26
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/category-badge.tsx",
+          "properties": {
+            "letterSpacing": {
+              "line": 31,
+              "col": 25,
+              "endCol": 28,
+              "raw": "0.3"
+            }
+          }
+        }
+      ]
+    },
+    "FileTypeIcon@components/file-type-icon.tsx:22": {
+      "element": {
+        "file": "components/file-type-icon.tsx",
+        "line": 22
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/file-type-icon.tsx",
+          "properties": {
+            "borderRadius": {
+              "line": 26,
+              "col": 22,
+              "endCol": 23,
+              "raw": "8"
+            },
+            "borderCurve": {
+              "line": 27,
+              "col": 21,
+              "endCol": 33,
+              "raw": "'continuous'"
+            },
+            "borderWidth": {
+              "line": 29,
+              "col": 21,
+              "endCol": 22,
+              "raw": "1"
+            },
+            "alignItems": {
+              "line": 31,
+              "col": 20,
+              "endCol": 28,
+              "raw": "'center'"
+            },
+            "justifyContent": {
+              "line": 32,
+              "col": 24,
+              "endCol": 32,
+              "raw": "'center'"
+            }
+          }
+        }
+      ]
+    },
+    "FileTypeIcon@components/file-type-icon.tsx:35": {
+      "element": {
+        "file": "components/file-type-icon.tsx",
+        "line": 35
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/file-type-icon.tsx",
+          "properties": {
+            "letterSpacing": {
+              "line": 40,
+              "col": 25,
+              "endCol": 28,
+              "raw": "0.5"
+            }
+          }
+        }
+      ]
+    },
+    "RootLayout@app/_layout.tsx:22": {
+      "element": {
+        "file": "app/_layout.tsx",
+        "line": 22
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/_layout.tsx",
+          "properties": {
+            "flex": {
+              "line": 22,
+              "col": 32,
+              "endCol": 33,
+              "raw": "1"
+            }
+          }
+        }
+      ]
+    },
+    "HomeScreen@app/(tabs)/index.tsx:40": {
+      "element": {
+        "file": "app/(tabs)/index.tsx",
+        "line": 40
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/index.tsx",
+          "properties": {
+            "flex": {
+              "line": 41,
+              "col": 21,
+              "endCol": 22,
+              "raw": "1"
+            }
+          }
+        }
+      ]
+    },
+    "HomeScreen@app/(tabs)/index.tsx:46": {
+      "element": {
+        "file": "app/(tabs)/index.tsx",
+        "line": 46
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/index.tsx",
+          "properties": {
+            "paddingHorizontal": {
+              "line": 49,
+              "col": 29,
+              "endCol": 31,
+              "raw": "20"
+            },
+            "paddingBottom": {
+              "line": 50,
+              "col": 25,
+              "endCol": 27,
+              "raw": "20"
+            },
+            "gap": {
+              "line": 51,
+              "col": 15,
+              "endCol": 17,
+              "raw": "16"
+            }
+          }
+        }
+      ]
+    },
+    "HomeScreen@app/(tabs)/index.tsx:55": {
+      "element": {
+        "file": "app/(tabs)/index.tsx",
+        "line": 55
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/index.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 55,
+              "col": 38,
+              "endCol": 43,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 55,
+              "col": 57,
+              "endCol": 65,
+              "raw": "'center'"
+            },
+            "justifyContent": {
+              "line": 55,
+              "col": 83,
+              "endCol": 98,
+              "raw": "'space-between'"
+            }
+          }
+        }
+      ]
+    },
+    "HomeScreen@app/(tabs)/index.tsx:56": {
+      "element": {
+        "file": "app/(tabs)/index.tsx",
+        "line": 56
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/index.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 56,
+              "col": 40,
+              "endCol": 45,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 56,
+              "col": 59,
+              "endCol": 67,
+              "raw": "'center'"
+            },
+            "gap": {
+              "line": 56,
+              "col": 74,
+              "endCol": 76,
+              "raw": "10"
+            }
+          }
+        }
+      ]
+    },
+    "HomeScreen@app/(tabs)/index.tsx:57": {
+      "element": {
+        "file": "app/(tabs)/index.tsx",
+        "line": 57
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/index.tsx",
+          "properties": {
+            "width": {
+              "line": 59,
+              "col": 23,
+              "endCol": 25,
+              "raw": "36"
+            },
+            "height": {
+              "line": 60,
+              "col": 24,
+              "endCol": 26,
+              "raw": "36"
+            },
+            "borderRadius": {
+              "line": 61,
+              "col": 30,
+              "endCol": 32,
+              "raw": "10"
+            },
+            "borderCurve": {
+              "line": 62,
+              "col": 29,
+              "endCol": 41,
+              "raw": "'continuous'"
+            },
+            "alignItems": {
+              "line": 64,
+              "col": 28,
+              "endCol": 36,
+              "raw": "'center'"
+            },
+            "justifyContent": {
+              "line": 65,
+              "col": 32,
+              "endCol": 40,
+              "raw": "'center'"
+            },
+            "borderWidth": {
+              "line": 66,
+              "col": 29,
+              "endCol": 30,
+              "raw": "1"
+            }
+          }
+        }
+      ]
+    },
+    "HomeScreen@app/(tabs)/index.tsx:72": {
+      "element": {
+        "file": "app/(tabs)/index.tsx",
+        "line": 72
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/index.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 75,
+              "col": 26,
+              "endCol": 28,
+              "raw": "22"
+            },
+            "letterSpacing": {
+              "line": 77,
+              "col": 31,
+              "endCol": 35,
+              "raw": "-0.5"
+            }
+          }
+        }
+      ]
+    },
+    "HomeScreen@app/(tabs)/index.tsx:84": {
+      "element": {
+        "file": "app/(tabs)/index.tsx",
+        "line": 84
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/index.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 84,
+              "col": 40,
+              "endCol": 45,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 84,
+              "col": 59,
+              "endCol": 67,
+              "raw": "'center'"
+            },
+            "gap": {
+              "line": 84,
+              "col": 74,
+              "endCol": 76,
+              "raw": "10"
+            }
+          }
+        }
+      ]
+    },
+    "HomeScreen@app/(tabs)/index.tsx:86": {
+      "element": {
+        "file": "app/(tabs)/index.tsx",
+        "line": 86
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/index.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 89,
+              "col": 31,
+              "endCol": 36,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 90,
+              "col": 28,
+              "endCol": 36,
+              "raw": "'center'"
+            },
+            "gap": {
+              "line": 91,
+              "col": 21,
+              "endCol": 22,
+              "raw": "4"
+            },
+            "paddingHorizontal": {
+              "line": 93,
+              "col": 35,
+              "endCol": 37,
+              "raw": "10"
+            },
+            "paddingVertical": {
+              "line": 94,
+              "col": 33,
+              "endCol": 34,
+              "raw": "6"
+            },
+            "borderRadius": {
+              "line": 95,
+              "col": 30,
+              "endCol": 31,
+              "raw": "8"
+            },
+            "borderCurve": {
+              "line": 96,
+              "col": 29,
+              "endCol": 41,
+              "raw": "'continuous'"
+            },
+            "borderWidth": {
+              "line": 97,
+              "col": 29,
+              "endCol": 30,
+              "raw": "1"
+            }
+          }
+        }
+      ]
+    },
+    "HomeScreen@app/(tabs)/index.tsx:101": {
+      "element": {
+        "file": "app/(tabs)/index.tsx",
+        "line": 101
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/index.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 104,
+              "col": 28,
+              "endCol": 30,
+              "raw": "12"
+            }
+          }
+        }
+      ]
+    },
+    "HomeScreen@app/(tabs)/index.tsx:110": {
+      "element": {
+        "file": "app/(tabs)/index.tsx",
+        "line": 110
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/index.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 110,
+              "col": 66,
+              "endCol": 68,
+              "raw": "12"
+            }
+          }
+        }
+      ]
+    },
+    "HomeScreen@app/(tabs)/index.tsx:111": {
+      "element": {
+        "file": "app/(tabs)/index.tsx",
+        "line": 111
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/index.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 114,
+              "col": 28,
+              "endCol": 30,
+              "raw": "12"
+            }
+          }
+        }
+      ]
+    },
+    "HomeScreen@app/(tabs)/index.tsx:127": {
+      "element": {
+        "file": "app/(tabs)/index.tsx",
+        "line": 127
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/index.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 127,
+              "col": 38,
+              "endCol": 43,
+              "raw": "'row'"
+            },
+            "gap": {
+              "line": 127,
+              "col": 50,
+              "endCol": 52,
+              "raw": "10"
+            }
+          }
+        }
+      ]
+    },
+    "HomeScreen@app/(tabs)/index.tsx:149": {
+      "element": {
+        "file": "app/(tabs)/index.tsx",
+        "line": 149
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/index.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 149,
+              "col": 38,
+              "endCol": 43,
+              "raw": "'row'"
+            },
+            "gap": {
+              "line": 149,
+              "col": 50,
+              "endCol": 52,
+              "raw": "10"
+            }
+          }
+        }
+      ]
+    },
+    "HomeScreen@app/(tabs)/index.tsx:175": {
+      "element": {
+        "file": "app/(tabs)/index.tsx",
+        "line": 175
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/index.tsx",
+          "properties": {
+            "gap": {
+              "line": 175,
+              "col": 26,
+              "endCol": 28,
+              "raw": "12"
+            },
+            "paddingHorizontal": {
+              "line": 175,
+              "col": 49,
+              "endCol": 51,
+              "raw": "20"
+            }
+          }
+        }
+      ]
+    },
+    "HomeScreen@app/(tabs)/index.tsx:176": {
+      "element": {
+        "file": "app/(tabs)/index.tsx",
+        "line": 176
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/index.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 176,
+              "col": 38,
+              "endCol": 43,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 176,
+              "col": 57,
+              "endCol": 65,
+              "raw": "'center'"
+            },
+            "justifyContent": {
+              "line": 176,
+              "col": 83,
+              "endCol": 98,
+              "raw": "'space-between'"
+            }
+          }
+        }
+      ]
+    },
+    "HomeScreen@app/(tabs)/index.tsx:177": {
+      "element": {
+        "file": "app/(tabs)/index.tsx",
+        "line": 177
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/index.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 180,
+              "col": 24,
+              "endCol": 26,
+              "raw": "17"
+            }
+          }
+        }
+      ]
+    },
+    "HomeScreen@app/(tabs)/index.tsx:187": {
+      "element": {
+        "file": "app/(tabs)/index.tsx",
+        "line": 187
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/index.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 190,
+              "col": 26,
+              "endCol": 28,
+              "raw": "13"
+            }
+          }
+        }
+      ]
+    },
+    "HomeScreen@app/(tabs)/index.tsx:199": {
+      "element": {
+        "file": "app/(tabs)/index.tsx",
+        "line": 199
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/index.tsx",
+          "properties": {
+            "gap": {
+              "line": 199,
+              "col": 28,
+              "endCol": 29,
+              "raw": "8"
+            }
+          }
+        }
+      ]
+    },
+    "renderItem@app/(tabs)/questions.tsx:55": {
+      "element": {
+        "file": "app/(tabs)/questions.tsx",
+        "line": 55
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/questions.tsx",
+          "properties": {
+            "paddingHorizontal": {
+              "line": 55,
+              "col": 38,
+              "endCol": 40,
+              "raw": "16"
+            },
+            "paddingVertical": {
+              "line": 55,
+              "col": 59,
+              "endCol": 60,
+              "raw": "4"
+            }
+          }
+        }
+      ]
+    },
+    "QuestionsScreen@app/(tabs)/questions.tsx:68": {
+      "element": {
+        "file": "app/(tabs)/questions.tsx",
+        "line": 68
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/questions.tsx",
+          "properties": {
+            "flex": {
+              "line": 68,
+              "col": 25,
+              "endCol": 26,
+              "raw": "1"
+            }
+          }
+        }
+      ]
+    },
+    "QuestionsScreen@app/(tabs)/questions.tsx:70": {
+      "element": {
+        "file": "app/(tabs)/questions.tsx",
+        "line": 70
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/questions.tsx",
+          "properties": {
+            "gap": {
+              "line": 70,
+              "col": 55,
+              "endCol": 57,
+              "raw": "14"
+            },
+            "paddingBottom": {
+              "line": 70,
+              "col": 74,
+              "endCol": 76,
+              "raw": "12"
+            }
+          }
+        }
+      ]
+    },
+    "QuestionsScreen@app/(tabs)/questions.tsx:71": {
+      "element": {
+        "file": "app/(tabs)/questions.tsx",
+        "line": 71
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/questions.tsx",
+          "properties": {
+            "paddingHorizontal": {
+              "line": 71,
+              "col": 42,
+              "endCol": 44,
+              "raw": "20"
+            },
+            "flexDirection": {
+              "line": 71,
+              "col": 61,
+              "endCol": 66,
+              "raw": "'row'"
+            },
+            "justifyContent": {
+              "line": 71,
+              "col": 84,
+              "endCol": 99,
+              "raw": "'space-between'"
+            },
+            "alignItems": {
+              "line": 71,
+              "col": 113,
+              "endCol": 121,
+              "raw": "'center'"
+            }
+          }
+        }
+      ]
+    },
+    "QuestionsScreen@app/(tabs)/questions.tsx:72": {
+      "element": {
+        "file": "app/(tabs)/questions.tsx",
+        "line": 72
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/questions.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 75,
+              "col": 24,
+              "endCol": 26,
+              "raw": "28"
+            },
+            "letterSpacing": {
+              "line": 77,
+              "col": 29,
+              "endCol": 33,
+              "raw": "-0.5"
+            }
+          }
+        }
+      ]
+    },
+    "QuestionsScreen@app/(tabs)/questions.tsx:83": {
+      "element": {
+        "file": "app/(tabs)/questions.tsx",
+        "line": 83
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/questions.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 93,
+              "col": 29,
+              "endCol": 34,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 94,
+              "col": 26,
+              "endCol": 34,
+              "raw": "'center'"
+            },
+            "gap": {
+              "line": 95,
+              "col": 19,
+              "endCol": 20,
+              "raw": "6"
+            },
+            "paddingHorizontal": {
+              "line": 97,
+              "col": 33,
+              "endCol": 35,
+              "raw": "12"
+            },
+            "paddingVertical": {
+              "line": 98,
+              "col": 31,
+              "endCol": 32,
+              "raw": "8"
+            },
+            "borderRadius": {
+              "line": 99,
+              "col": 28,
+              "endCol": 30,
+              "raw": "10"
+            },
+            "borderCurve": {
+              "line": 100,
+              "col": 27,
+              "endCol": 39,
+              "raw": "'continuous'"
+            },
+            "borderWidth": {
+              "line": 101,
+              "col": 27,
+              "endCol": 28,
+              "raw": "1"
+            }
+          }
+        }
+      ]
+    },
+    "QuestionsScreen@app/(tabs)/questions.tsx:106": {
+      "element": {
+        "file": "app/(tabs)/questions.tsx",
+        "line": 106
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/questions.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 106,
+              "col": 65,
+              "endCol": 67,
+              "raw": "12"
+            }
+          }
+        }
+      ]
+    },
+    "QuestionsScreen@app/(tabs)/questions.tsx:113": {
+      "element": {
+        "file": "app/(tabs)/questions.tsx",
+        "line": 113
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/questions.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 115,
+              "col": 27,
+              "endCol": 32,
+              "raw": "'row'"
+            },
+            "marginHorizontal": {
+              "line": 116,
+              "col": 30,
+              "endCol": 32,
+              "raw": "16"
+            },
+            "borderRadius": {
+              "line": 118,
+              "col": 26,
+              "endCol": 28,
+              "raw": "12"
+            },
+            "borderCurve": {
+              "line": 119,
+              "col": 25,
+              "endCol": 37,
+              "raw": "'continuous'"
+            },
+            "padding": {
+              "line": 120,
+              "col": 21,
+              "endCol": 22,
+              "raw": "4"
+            },
+            "borderWidth": {
+              "line": 121,
+              "col": 25,
+              "endCol": 26,
+              "raw": "1"
+            }
+          }
+        }
+      ]
+    },
+    "QuestionsScreen@app/(tabs)/questions.tsx:128": {
+      "element": {
+        "file": "app/(tabs)/questions.tsx",
+        "line": 128
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/questions.tsx",
+          "properties": {
+            "flex": {
+              "line": 132,
+              "col": 24,
+              "endCol": 25,
+              "raw": "1"
+            },
+            "paddingVertical": {
+              "line": 133,
+              "col": 35,
+              "endCol": 37,
+              "raw": "10"
+            },
+            "borderRadius": {
+              "line": 134,
+              "col": 32,
+              "endCol": 33,
+              "raw": "9"
+            },
+            "borderCurve": {
+              "line": 135,
+              "col": 31,
+              "endCol": 43,
+              "raw": "'continuous'"
+            },
+            "alignItems": {
+              "line": 137,
+              "col": 30,
+              "endCol": 38,
+              "raw": "'center'"
+            }
+          }
+        }
+      ]
+    },
+    "QuestionsScreen@app/(tabs)/questions.tsx:140": {
+      "element": {
+        "file": "app/(tabs)/questions.tsx",
+        "line": 140
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/questions.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 143,
+              "col": 30,
+              "endCol": 32,
+              "raw": "14"
+            }
+          }
+        }
+      ]
+    },
+    "QuestionsScreen@app/(tabs)/questions.tsx:155": {
+      "element": {
+        "file": "app/(tabs)/questions.tsx",
+        "line": 155
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/questions.tsx",
+          "properties": {
+            "paddingHorizontal": {
+              "line": 155,
+              "col": 42,
+              "endCol": 44,
+              "raw": "16"
+            }
+          }
+        }
+      ]
+    },
+    "QuestionsScreen@app/(tabs)/questions.tsx:156": {
+      "element": {
+        "file": "app/(tabs)/questions.tsx",
+        "line": 156
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/questions.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 158,
+              "col": 29,
+              "endCol": 34,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 159,
+              "col": 26,
+              "endCol": 34,
+              "raw": "'center'"
+            },
+            "borderRadius": {
+              "line": 161,
+              "col": 28,
+              "endCol": 30,
+              "raw": "12"
+            },
+            "borderCurve": {
+              "line": 162,
+              "col": 27,
+              "endCol": 39,
+              "raw": "'continuous'"
+            },
+            "paddingHorizontal": {
+              "line": 163,
+              "col": 33,
+              "endCol": 35,
+              "raw": "12"
+            },
+            "borderWidth": {
+              "line": 164,
+              "col": 27,
+              "endCol": 28,
+              "raw": "1"
+            },
+            "gap": {
+              "line": 166,
+              "col": 19,
+              "endCol": 20,
+              "raw": "8"
+            },
+            "minHeight": {
+              "line": 167,
+              "col": 25,
+              "endCol": 27,
+              "raw": "44"
+            }
+          }
+        }
+      ]
+    },
+    "QuestionsScreen@app/(tabs)/questions.tsx:171": {
+      "element": {
+        "file": "app/(tabs)/questions.tsx",
+        "line": 171
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/questions.tsx",
+          "properties": {
+            "flex": {
+              "line": 178,
+              "col": 22,
+              "endCol": 23,
+              "raw": "1"
+            },
+            "fontSize": {
+              "line": 180,
+              "col": 26,
+              "endCol": 28,
+              "raw": "14"
+            },
+            "paddingVertical": {
+              "line": 182,
+              "col": 33,
+              "endCol": 35,
+              "raw": "10"
+            }
+          }
+        }
+      ]
+    },
+    "QuestionsScreen@app/(tabs)/questions.tsx:214": {
+      "element": {
+        "file": "app/(tabs)/questions.tsx",
+        "line": 214
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/questions.tsx",
+          "properties": {
+            "paddingHorizontal": {
+              "line": 214,
+              "col": 46,
+              "endCol": 48,
+              "raw": "20"
+            },
+            "paddingVertical": {
+              "line": 214,
+              "col": 67,
+              "endCol": 68,
+              "raw": "8"
+            }
+          }
+        }
+      ]
+    },
+    "QuestionsScreen@app/(tabs)/questions.tsx:215": {
+      "element": {
+        "file": "app/(tabs)/questions.tsx",
+        "line": 215
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/questions.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 215,
+              "col": 65,
+              "endCol": 67,
+              "raw": "13"
+            }
+          }
+        }
+      ]
+    },
+    "renderResult@app/(tabs)/search.tsx:64": {
+      "element": {
+        "file": "app/(tabs)/search.tsx",
+        "line": 64
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/search.tsx",
+          "properties": {
+            "paddingHorizontal": {
+              "line": 64,
+              "col": 38,
+              "endCol": 40,
+              "raw": "16"
+            },
+            "paddingVertical": {
+              "line": 64,
+              "col": 59,
+              "endCol": 60,
+              "raw": "4"
+            }
+          }
+        }
+      ]
+    },
+    "SearchScreen@app/(tabs)/search.tsx:81": {
+      "element": {
+        "file": "app/(tabs)/search.tsx",
+        "line": 81
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/search.tsx",
+          "properties": {
+            "flex": {
+              "line": 81,
+              "col": 25,
+              "endCol": 26,
+              "raw": "1"
+            }
+          }
+        }
+      ]
+    },
+    "SearchScreen@app/(tabs)/search.tsx:83": {
+      "element": {
+        "file": "app/(tabs)/search.tsx",
+        "line": 83
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/search.tsx",
+          "properties": {
+            "gap": {
+              "line": 83,
+              "col": 55,
+              "endCol": 57,
+              "raw": "14"
+            },
+            "paddingBottom": {
+              "line": 83,
+              "col": 74,
+              "endCol": 76,
+              "raw": "12"
+            }
+          }
+        }
+      ]
+    },
+    "SearchScreen@app/(tabs)/search.tsx:84": {
+      "element": {
+        "file": "app/(tabs)/search.tsx",
+        "line": 84
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/search.tsx",
+          "properties": {
+            "paddingHorizontal": {
+              "line": 84,
+              "col": 42,
+              "endCol": 44,
+              "raw": "20"
+            }
+          }
+        }
+      ]
+    },
+    "SearchScreen@app/(tabs)/search.tsx:85": {
+      "element": {
+        "file": "app/(tabs)/search.tsx",
+        "line": 85
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/search.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 88,
+              "col": 24,
+              "endCol": 26,
+              "raw": "28"
+            },
+            "letterSpacing": {
+              "line": 90,
+              "col": 29,
+              "endCol": 33,
+              "raw": "-0.5"
+            }
+          }
+        }
+      ]
+    },
+    "SearchScreen@app/(tabs)/search.tsx:98": {
+      "element": {
+        "file": "app/(tabs)/search.tsx",
+        "line": 98
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/search.tsx",
+          "properties": {
+            "paddingHorizontal": {
+              "line": 98,
+              "col": 42,
+              "endCol": 44,
+              "raw": "16"
+            }
+          }
+        }
+      ]
+    },
+    "SearchScreen@app/(tabs)/search.tsx:99": {
+      "element": {
+        "file": "app/(tabs)/search.tsx",
+        "line": 99
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/search.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 101,
+              "col": 29,
+              "endCol": 34,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 102,
+              "col": 26,
+              "endCol": 34,
+              "raw": "'center'"
+            },
+            "borderRadius": {
+              "line": 104,
+              "col": 28,
+              "endCol": 30,
+              "raw": "14"
+            },
+            "borderCurve": {
+              "line": 105,
+              "col": 27,
+              "endCol": 39,
+              "raw": "'continuous'"
+            },
+            "paddingHorizontal": {
+              "line": 106,
+              "col": 33,
+              "endCol": 35,
+              "raw": "14"
+            },
+            "borderWidth": {
+              "line": 107,
+              "col": 27,
+              "endCol": 30,
+              "raw": "1.5"
+            },
+            "gap": {
+              "line": 109,
+              "col": 19,
+              "endCol": 21,
+              "raw": "10"
+            },
+            "minHeight": {
+              "line": 110,
+              "col": 25,
+              "endCol": 27,
+              "raw": "50"
+            }
+          }
+        }
+      ]
+    },
+    "SearchScreen@app/(tabs)/search.tsx:114": {
+      "element": {
+        "file": "app/(tabs)/search.tsx",
+        "line": 114
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/search.tsx",
+          "properties": {
+            "flex": {
+              "line": 125,
+              "col": 22,
+              "endCol": 23,
+              "raw": "1"
+            },
+            "fontSize": {
+              "line": 127,
+              "col": 26,
+              "endCol": 28,
+              "raw": "15"
+            },
+            "paddingVertical": {
+              "line": 129,
+              "col": 33,
+              "endCol": 35,
+              "raw": "12"
+            }
+          }
+        }
+      ]
+    },
+    "SearchScreen@app/(tabs)/search.tsx:149": {
+      "element": {
+        "file": "app/(tabs)/search.tsx",
+        "line": 149
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/search.tsx",
+          "properties": {
+            "paddingHorizontal": {
+              "line": 153,
+              "col": 37,
+              "endCol": 39,
+              "raw": "14"
+            },
+            "paddingVertical": {
+              "line": 154,
+              "col": 35,
+              "endCol": 36,
+              "raw": "7"
+            },
+            "borderRadius": {
+              "line": 155,
+              "col": 32,
+              "endCol": 34,
+              "raw": "20"
+            },
+            "borderCurve": {
+              "line": 156,
+              "col": 31,
+              "endCol": 43,
+              "raw": "'continuous'"
+            },
+            "borderWidth": {
+              "line": 158,
+              "col": 31,
+              "endCol": 32,
+              "raw": "1"
+            }
+          }
+        }
+      ]
+    },
+    "SearchScreen@app/(tabs)/search.tsx:162": {
+      "element": {
+        "file": "app/(tabs)/search.tsx",
+        "line": 162
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/search.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 165,
+              "col": 30,
+              "endCol": 32,
+              "raw": "13"
+            }
+          }
+        }
+      ]
+    },
+    "SearchScreen@app/(tabs)/search.tsx:185": {
+      "element": {
+        "file": "app/(tabs)/search.tsx",
+        "line": 185
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/search.tsx",
+          "properties": {
+            "gap": {
+              "line": 185,
+              "col": 32,
+              "endCol": 34,
+              "raw": "12"
+            }
+          }
+        }
+      ]
+    },
+    "SearchScreen@app/(tabs)/search.tsx:186": {
+      "element": {
+        "file": "app/(tabs)/search.tsx",
+        "line": 186
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/search.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 186,
+              "col": 44,
+              "endCol": 49,
+              "raw": "'row'"
+            },
+            "justifyContent": {
+              "line": 186,
+              "col": 67,
+              "endCol": 82,
+              "raw": "'space-between'"
+            },
+            "alignItems": {
+              "line": 186,
+              "col": 96,
+              "endCol": 104,
+              "raw": "'center'"
+            }
+          }
+        }
+      ]
+    },
+    "SearchScreen@app/(tabs)/search.tsx:187": {
+      "element": {
+        "file": "app/(tabs)/search.tsx",
+        "line": 187
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/search.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 187,
+              "col": 69,
+              "endCol": 71,
+              "raw": "15"
+            }
+          }
+        }
+      ]
+    },
+    "SearchScreen@app/(tabs)/search.tsx:191": {
+      "element": {
+        "file": "app/(tabs)/search.tsx",
+        "line": 191
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/search.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 191,
+              "col": 69,
+              "endCol": 71,
+              "raw": "13"
+            }
+          }
+        }
+      ]
+    },
+    "SearchScreen@app/(tabs)/search.tsx:197": {
+      "element": {
+        "file": "app/(tabs)/search.tsx",
+        "line": 197
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/search.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 201,
+              "col": 35,
+              "endCol": 40,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 202,
+              "col": 32,
+              "endCol": 40,
+              "raw": "'center'"
+            },
+            "gap": {
+              "line": 203,
+              "col": 25,
+              "endCol": 27,
+              "raw": "10"
+            },
+            "paddingVertical": {
+              "line": 204,
+              "col": 37,
+              "endCol": 38,
+              "raw": "8"
+            }
+          }
+        }
+      ]
+    },
+    "SearchScreen@app/(tabs)/search.tsx:208": {
+      "element": {
+        "file": "app/(tabs)/search.tsx",
+        "line": 208
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/search.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 208,
+              "col": 70,
+              "endCol": 72,
+              "raw": "14"
+            },
+            "flex": {
+              "line": 208,
+              "col": 109,
+              "endCol": 110,
+              "raw": "1"
+            }
+          }
+        }
+      ]
+    },
+    "SearchScreen@app/(tabs)/search.tsx:218": {
+      "element": {
+        "file": "app/(tabs)/search.tsx",
+        "line": 218
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/search.tsx",
+          "properties": {
+            "marginTop": {
+              "line": 218,
+              "col": 36,
+              "endCol": 38,
+              "raw": "32"
+            },
+            "gap": {
+              "line": 218,
+              "col": 45,
+              "endCol": 47,
+              "raw": "12"
+            }
+          }
+        }
+      ]
+    },
+    "SearchScreen@app/(tabs)/search.tsx:219": {
+      "element": {
+        "file": "app/(tabs)/search.tsx",
+        "line": 219
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/search.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 219,
+              "col": 65,
+              "endCol": 67,
+              "raw": "15"
+            }
+          }
+        }
+      ]
+    },
+    "SearchScreen@app/(tabs)/search.tsx:228": {
+      "element": {
+        "file": "app/(tabs)/search.tsx",
+        "line": 228
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/search.tsx",
+          "properties": {
+            "flexDirection": {
+              "line": 228,
+              "col": 52,
+              "endCol": 57,
+              "raw": "'row'"
+            },
+            "alignItems": {
+              "line": 228,
+              "col": 71,
+              "endCol": 83,
+              "raw": "'flex-start'"
+            },
+            "gap": {
+              "line": 228,
+              "col": 90,
+              "endCol": 92,
+              "raw": "10"
+            }
+          }
+        }
+      ]
+    },
+    "SearchScreen@app/(tabs)/search.tsx:229": {
+      "element": {
+        "file": "app/(tabs)/search.tsx",
+        "line": 229
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/search.tsx",
+          "properties": {
+            "marginTop": {
+              "line": 229,
+              "col": 94,
+              "endCol": 95,
+              "raw": "2"
+            }
+          }
+        }
+      ]
+    },
+    "SearchScreen@app/(tabs)/search.tsx:230": {
+      "element": {
+        "file": "app/(tabs)/search.tsx",
+        "line": 230
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/search.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 230,
+              "col": 68,
+              "endCol": 70,
+              "raw": "13"
+            },
+            "flex": {
+              "line": 230,
+              "col": 107,
+              "endCol": 108,
+              "raw": "1"
+            },
+            "lineHeight": {
+              "line": 230,
+              "col": 122,
+              "endCol": 124,
+              "raw": "19"
+            }
+          }
+        }
+      ]
+    },
+    "SearchScreen@app/(tabs)/search.tsx:256": {
+      "element": {
+        "file": "app/(tabs)/search.tsx",
+        "line": 256
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/search.tsx",
+          "properties": {
+            "paddingHorizontal": {
+              "line": 256,
+              "col": 48,
+              "endCol": 50,
+              "raw": "20"
+            },
+            "paddingVertical": {
+              "line": 256,
+              "col": 69,
+              "endCol": 70,
+              "raw": "8"
+            }
+          }
+        }
+      ]
+    },
+    "SearchScreen@app/(tabs)/search.tsx:257": {
+      "element": {
+        "file": "app/(tabs)/search.tsx",
+        "line": 257
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "app/(tabs)/search.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 257,
+              "col": 67,
+              "endCol": 69,
+              "raw": "13"
+            }
+          }
+        }
+      ]
+    },
     "SettingsRow@app/(tabs)/settings.tsx:25": {
       "element": {
         "file": "app/(tabs)/settings.tsx",
@@ -5883,6 +5649,240 @@
               "col": 60,
               "endCol": 62,
               "raw": "11"
+            }
+          }
+        }
+      ]
+    },
+    "ActionButton@components/action-button.tsx:24": {
+      "element": {
+        "file": "components/action-button.tsx",
+        "line": 24
+      },
+      "styles": [
+        {
+          "origin": "dynamic",
+          "resolvable": false
+        }
+      ]
+    },
+    "ActionButton@components/action-button.tsx:42": {
+      "element": {
+        "file": "components/action-button.tsx",
+        "line": 42
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/action-button.tsx",
+          "properties": {
+            "width": {
+              "line": 44,
+              "col": 17,
+              "endCol": 19,
+              "raw": "36"
+            },
+            "height": {
+              "line": 45,
+              "col": 18,
+              "endCol": 20,
+              "raw": "36"
+            },
+            "borderRadius": {
+              "line": 46,
+              "col": 24,
+              "endCol": 26,
+              "raw": "18"
+            },
+            "alignItems": {
+              "line": 48,
+              "col": 22,
+              "endCol": 30,
+              "raw": "'center'"
+            },
+            "justifyContent": {
+              "line": 49,
+              "col": 26,
+              "endCol": 34,
+              "raw": "'center'"
+            }
+          }
+        }
+      ]
+    },
+    "ActionButton@components/action-button.tsx:54": {
+      "element": {
+        "file": "components/action-button.tsx",
+        "line": 54
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/action-button.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 57,
+              "col": 20,
+              "endCol": 22,
+              "raw": "12"
+            },
+            "textAlign": {
+              "line": 59,
+              "col": 21,
+              "endCol": 29,
+              "raw": "'center'"
+            },
+            "letterSpacing": {
+              "line": 60,
+              "col": 25,
+              "endCol": 28,
+              "raw": "0.2"
+            }
+          }
+        }
+      ]
+    },
+    "StatCard@components/stat-card.tsx:15": {
+      "element": {
+        "file": "components/stat-card.tsx",
+        "line": 15
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/stat-card.tsx",
+          "properties": {
+            "flex": {
+              "line": 17,
+              "col": 14,
+              "endCol": 15,
+              "raw": "1"
+            },
+            "borderRadius": {
+              "line": 19,
+              "col": 22,
+              "endCol": 24,
+              "raw": "14"
+            },
+            "borderCurve": {
+              "line": 20,
+              "col": 21,
+              "endCol": 33,
+              "raw": "'continuous'"
+            },
+            "padding": {
+              "line": 21,
+              "col": 17,
+              "endCol": 19,
+              "raw": "14"
+            },
+            "gap": {
+              "line": 22,
+              "col": 13,
+              "endCol": 14,
+              "raw": "8"
+            },
+            "borderWidth": {
+              "line": 23,
+              "col": 21,
+              "endCol": 22,
+              "raw": "1"
+            }
+          }
+        }
+      ]
+    },
+    "StatCard@components/stat-card.tsx:27": {
+      "element": {
+        "file": "components/stat-card.tsx",
+        "line": 27
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/stat-card.tsx",
+          "properties": {
+            "width": {
+              "line": 29,
+              "col": 17,
+              "endCol": 19,
+              "raw": "32"
+            },
+            "height": {
+              "line": 30,
+              "col": 18,
+              "endCol": 20,
+              "raw": "32"
+            },
+            "borderRadius": {
+              "line": 31,
+              "col": 24,
+              "endCol": 25,
+              "raw": "8"
+            },
+            "borderCurve": {
+              "line": 32,
+              "col": 23,
+              "endCol": 35,
+              "raw": "'continuous'"
+            },
+            "alignItems": {
+              "line": 34,
+              "col": 22,
+              "endCol": 30,
+              "raw": "'center'"
+            },
+            "justifyContent": {
+              "line": 35,
+              "col": 26,
+              "endCol": 34,
+              "raw": "'center'"
+            }
+          }
+        }
+      ]
+    },
+    "StatCard@components/stat-card.tsx:40": {
+      "element": {
+        "file": "components/stat-card.tsx",
+        "line": 40
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/stat-card.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 44,
+              "col": 20,
+              "endCol": 22,
+              "raw": "20"
+            }
+          }
+        }
+      ]
+    },
+    "StatCard@components/stat-card.tsx:51": {
+      "element": {
+        "file": "components/stat-card.tsx",
+        "line": 51
+      },
+      "styles": [
+        {
+          "origin": "inline",
+          "file": "components/stat-card.tsx",
+          "properties": {
+            "fontSize": {
+              "line": 54,
+              "col": 20,
+              "endCol": 22,
+              "raw": "11"
+            },
+            "letterSpacing": {
+              "line": 56,
+              "col": 25,
+              "endCol": 28,
+              "raw": "0.2"
             }
           }
         }
